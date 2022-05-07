@@ -1,0 +1,119 @@
+% Tipo di documento. L'uso di twoside implica che i capitoli inizino sempre con la prima pagina a sinistra, eventualmente lasciando una pagina vuota nel capitolo precedente. Se questa cosa è fastidiosa, è possibile rimuoverlo. 
+\documentclass[a4paper, twoside,openright]{report}
+
+\usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=3cm]{geometry} 
+\usepackage[fontsize=11pt]{scrextend}
+\usepackage[english]{babel}
+\usepackage[fixlanguage]{babelbib}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}               
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}         
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}         
+\usepackage{listings}          
+\usepackage{hyperref}     
+\usepackage[normalem]{ulem}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\rightmarki}
+\rhead{\textbf{\thepage}}
+\fancyfoot{}
+\setlength{\headheight}{12.5pt}
+
+% Rimuove il numero di pagina all'inizio dei capitoli
+\fancypagestyle{plain}{
+  \fancyfoot{}
+  \fancyhead{}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Stile del codice
+\lstdefinestyle{codeStyle}{
+    % Colore dei commenti
+    commentstyle=\color{teal},
+    % Colore delle keyword
+    keywordstyle=\color{Magenta},
+    % Stile dei numeri di riga
+    numberstyle=\tiny\color{gray},
+    % Colore delle stringhe
+    stringstyle=\color{violet},
+    % Dimensione e stile del testo
+    basicstyle=\ttfamily\footnotesize,
+    % newline solo ai whitespaces
+    breakatwhitespace=false,     
+    % newline si/no
+    breaklines=true,                 
+    % Posizione della caption, top/bottom 
+    captionpos=b,                    
+    % Mantiene gli spazi nel codice, utile per l'indentazione
+    keepspaces=true,                 
+    % Dove visualizzare i numeri di linea
+    numbers=left,                    
+    % Distanza tra i numeri di linea
+    numbersep=5pt,                  
+    % Mostra gli spazi bianchi o meno
+    showspaces=false,                
+    % Mostra gli spazi bianchi nelle stringhe
+    showstringspaces=false,
+    % Mostra i tab
+    showtabs=false,
+    % Dimensione dei tab
+    tabsize=2
+} \lstset{style=codeStyle}
+
+\lstdefinestyle{longBlock}{
+    commentstyle=\color{teal},
+    keywordstyle=\color{Magenta},
+    numberstyle=\tiny\color{gray},
+    stringstyle=\color{violet},
+    basicstyle=\ttfamily\scriptsize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+} \lstset{style=codeStyle}
+
+% Add padding between code section
+\lstset{aboveskip=20pt,belowskip=20pt}
+
+\hypersetup{
+    colorlinks,
+    linkcolor=CornflowerBlue,
+    citecolor=CornflowerBlue
+}
+
+% Aggiunti definizioni, teoremi, linea e listing
+\newtheorem{definition}{Definition}[section]
+\newtheorem{theorem}{Theorem}[section]
+\providecommand*\definitionautorefname{Definition}
+\providecommand*\theoremautorefname{Theorem}
+\providecommand*{\listingautorefname}{Listing}
+\providecommand*\lstnumberautorefname{Line}
+
+\raggedbottom
+
+\begin{document}
+
+\include{format/title_page}
+
+\tableofcontents
+
+% Rimuovere se non si vuole la tabella delle figure
+\listoffigures
+
+\appendix
+
+\bibliographystyle{plain}
+\bibliography{bibliography.bib}
+
+\end{document}
