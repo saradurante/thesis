@@ -1,5 +1,5 @@
 % Tipo di documento. L'uso di twoside implica che i capitoli inizino sempre con la prima pagina a sinistra, eventualmente lasciando una pagina vuota nel capitolo precedente. Se questa cosa è fastidiosa, è possibile rimuoverlo. 
-\documentclass[a4paper, twoside,openright]{report}
+\documentclass[a4paper, twoside,openright]{book}
 
 \usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=3cm]{geometry} 
 \usepackage[fontsize=11pt]{scrextend}
@@ -106,7 +106,9 @@
 
 \include{format/title_page}
 
-\tableofcontents
+%\tableofcontents
+
+%\include{sections/intro}
 
 % Rimuovere se non si vuole la tabella delle figure
 \listoffigures
