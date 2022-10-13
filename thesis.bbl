@@ -1,10 +1,19 @@
 \begin{thebibliography}{10}
 
+\bibitem{img3}
+{https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi/576-linfoma-non-hodgkin}.
+
+\bibitem{img4}
+{https://www.aiom.it/wp-content/uploads/2021/10/2021_NumeriCancro_web.pdf}.
+
 \bibitem{img2}
 {https://www.cancer.gov/publications/dictionaries/cancer-terms/def/lymph-system}.
 
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
+
+\bibitem{img5}
+{https://www.registri-tumori.it/cms/sites/default/files/pubblicazioni/new_NDC2020-operatori-web.pdf}.
 
 \bibitem{LINFOMIAIL}
 AIL.
@@ -30,18 +39,37 @@ American~Statistic Center.
 Associazione~Italiana di~Oncologia~Medica.
 \newblock {Linee guida linfomi}.
 
+\bibitem{ISS}
+Istituto~Superiore di~Sanità.
+\newblock {Linfoma non Hodgkin (LNH)}.
+
 \bibitem{BOOK1}
 Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock {Anatomia umana}.
 \newblock In {\em {Anatomia umana }}, 2019.
 
+\bibitem{LLS}
+Leukemia and Lymphoma Society.
+\newblock {Non-Hodgkin Lymphoma}.
+
+\bibitem{MIPI}
+Hancock~BW. Lim~SY, Horsman~JM.
+\newblock {The Mantle Cell Lymphoma International Prognostic Index: Does it
+  work in routine practice?}
+\newblock In {\em {The Mantle Cell Lymphoma International Prognostic Index:
+  Does it work in routine practice?}}, Jan 2010.
+
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Causes, Risk Factors, and Prevention}.
 
-\bibitem{LLS}
-Leukemia &~Lymphoma Society.
-\newblock {Non-Hodgkin Lymphoma}.
+\bibitem{ISTGENT}
+Gentili Oncology.
+\newblock {Linfoma Non Hodgkin}.
+
+\bibitem{AMERICANCANCER}
+American~Cancer Society.
+\newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
 
 \bibitem{AIRTUM}
 Associazione Italiana~Registri Tumori.

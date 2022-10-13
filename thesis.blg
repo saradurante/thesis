@@ -10,45 +10,48 @@ The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--to sort, need author or key in img1
 Warning--to sort, need author or key in img2
-You've used 14 entries,
+Warning--to sort, need author or key in img3
+Warning--to sort, need author or key in img4
+Warning--to sort, need author or key in img5
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            555 strings with 5114 characters,
-and the built_in function-call counts, 2756 in all, are:
-= -- 227
-> -- 92
+            579 strings with 5761 characters,
+and the built_in function-call counts, 4053 in all, are:
+= -- 334
+> -- 129
 < -- 0
-+ -- 40
-- -- 26
-* -- 84
-:= -- 433
-add.period$ -- 28
-call.type$ -- 14
-change.case$ -- 55
++ -- 57
+- -- 36
+* -- 129
+:= -- 613
+add.period$ -- 40
+call.type$ -- 21
+change.case$ -- 81
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 112
-empty$ -- 323
-format.name$ -- 26
-if$ -- 606
+cite$ -- 26
+duplicate$ -- 168
+empty$ -- 486
+format.name$ -- 36
+if$ -- 902
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 2
-newline$ -- 59
-num.names$ -- 24
-pop$ -- 113
+int.to.str$ -- 21
+missing$ -- 3
+newline$ -- 85
+num.names$ -- 32
+pop$ -- 170
 preamble$ -- 1
-purify$ -- 41
+purify$ -- 60
 quote$ -- 0
-skip$ -- 134
+skip$ -- 202
 stack$ -- 0
-substring$ -- 70
-swap$ -- 16
+substring$ -- 105
+swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 2
-while$ -- 24
-width$ -- 16
-write$ -- 102
-(There were 2 warnings)
+type$ -- 84
+warning$ -- 5
+while$ -- 32
+width$ -- 23
+write$ -- 148
+(There were 5 warnings)
