@@ -1,19 +1,79 @@
 \begin{thebibliography}{10}
 
+\bibitem{img4}
+{hshorturl.at/ilnV5}.
+
+\bibitem{img24}
+{https://m.teamintraining.org/treatment/types-of-treatment/immunotherapy/chimeric-antigen-receptor-car-t-cell-therapy}.
+
 \bibitem{img3}
 {https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi/576-linfoma-non-hodgkin}.
 
-\bibitem{img4}
-{https://www.aiom.it/wp-content/uploads/2021/10/2021_NumeriCancro_web.pdf}.
+\bibitem{img22}
+{https://www.cancer.gov/about-cancer/treatment/research/car-t-cells}.
 
 \bibitem{img2}
 {https://www.cancer.gov/publications/dictionaries/cancer-terms/def/lymph-system}.
 
+\bibitem{img23}
+{https://www.ematologiainprogress.it/cellule-car-t/}.
+
+\bibitem{img25}
+{https://www.ematologiainprogress.it/cellule-car-t/}.
+
+\bibitem{img15}
+{https://www.ematologiainprogress.it/linfoma-non-hodgkin/}.
+
+\bibitem{img18}
+{https://www.ematologiainprogress.it/linfoma-non-hodgkin/}.
+
+\bibitem{img19}
+{https://www.infomedics.it/therapeutic-areas/leucemie-e-linfomi/lnh/linfoma-follicolare/indici-prognostici-linfoma-follicolare.html}.
+
+\bibitem{img16}
+{https://www.lls.org/lymphoma/non-hodgkin-lymphoma/diagnosis/nhl-staging}.
+
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
 
+\bibitem{img17}
+{shorturl.at/BENX3}.
+
+\bibitem{img21}
+{shorturl.at/BENX3}.
+
+\bibitem{img20}
+{shorturl.at/dtxH1}.
+
+\bibitem{img6}
+{shorturl.at/FGVY1}.
+
+\bibitem{img7}
+{shorturl.at/FGVY1}.
+
+\bibitem{img8}
+{shorturl.at/ipq19}.
+
+\bibitem{img9}
+{shorturl.at/ipq19}.
+
+\bibitem{img10}
+{shorturl.at/ipq19}.
+
+\bibitem{img11}
+{shorturl.at/ipq19}.
+
+\bibitem{img12}
+{shorturl.at/ipq19}.
+
+\bibitem{img13}
+{shorturl.at/ipq19}.
+
+\bibitem{img14}
+{shorturl.at/ipq19}.
+
 \bibitem{img5}
-{https://www.registri-tumori.it/cms/sites/default/files/pubblicazioni/new_NDC2020-operatori-web.pdf}.
+{shorturl.at/qsuWY}.
 
 \bibitem{LINFOMIAIL}
 AIL.
@@ -35,6 +95,10 @@ Associazione Italiana~Ricerca Cancro.
 American~Statistic Center.
 \newblock {Linfoma non-Hodgkin 2022 Estimates}.
 
+\bibitem{AILCENTRI}
+Associazione~Italiana contro Leucemie Linfomi~e Mielomi.
+\newblock {I centri autorizzati alla somministrazione delle terapie CAR-T}.
+
 \bibitem{AIOM}
 Associazione~Italiana di~Oncologia~Medica.
 \newblock {Linee guida linfomi}.
@@ -48,6 +112,23 @@ Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock {Anatomia umana}.
 \newblock In {\em {Anatomia umana }}, 2019.
 
+\bibitem{NIHCART}
+National~Cancer Institute.
+\newblock {CAR T Cells: Engineering Patients’ Immune Cells to Treat Their
+  Cancers}.
+
+\bibitem{NIH}
+National~Cancer Institute.
+\newblock {Radiation Therapy to Treat Cancer}.
+
+\bibitem{LLSCART}
+Leukemia and Lymphoma Society.
+\newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
+
+\bibitem{LLSIMMUNO}
+Leukemia and Lymphoma Society.
+\newblock {Immunotherapy}.
+
 \bibitem{LLS}
 Leukemia and Lymphoma Society.
 \newblock {Non-Hodgkin Lymphoma}.
@@ -59,21 +140,53 @@ Hancock~BW. Lim~SY, Horsman~JM.
 \newblock In {\em {The Mantle Cell Lymphoma International Prognostic Index:
   Does it work in routine practice?}}, Jan 2010.
 
+\bibitem{Cortico}
+Yin Z Pan J Lin Y Ling Z Wu T Chen D Chang AH Gao Z Song Y Zhao Y Tong~C Liu~S,
+  Deng~B.
+\newblock { Corticosteroids do not influence the efficacy and kinetics of CAR-T
+  cells for B-cell acute lymphoblastic leukemia}.
+\newblock In {\em { Blood cancer journal}}, Feb 2020.
+
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Causes, Risk Factors, and Prevention}.
+
+\bibitem{Frontiers}
+Ren~Z Miao~L, Zhang~Z and Li~Y.
+\newblock { Reactions Related to CAR-T Cell Therapy}.
+\newblock In {\em { Reactions Related to CAR-T Cell Therapy}}, April 2021.
 
 \bibitem{ISTGENT}
 Gentili Oncology.
 \newblock {Linfoma Non Hodgkin}.
 
+\bibitem{EMATOCART}
+Ematologia~In Progress.
+\newblock {Cellule CAR-T}.
+
+\bibitem{IMMUNOTP}
+American~Cancer Society.
+\newblock {Immunotherapy}.
+
 \bibitem{AMERICANCANCER}
 American~Cancer Society.
 \newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
 
+\bibitem{ACSRADIATION}
+American~Cancer Society.
+\newblock {Treating Non-Hodgkin Lymphoma}.
+
+\bibitem{MACMILLAN}
+Macmillan~Cancer Support.
+\newblock {Radiotherapy}.
+
 \bibitem{AIRTUM}
 Associazione Italiana~Registri Tumori.
 \newblock {Cos'è AIRTUM}.
+
+\bibitem{UKRADIOTP}
+Cancer~Research UK.
+\newblock {Radiotherapy treatment}.
 
 \bibitem{reteveneta}
 Rete~Ematologica Veneta.

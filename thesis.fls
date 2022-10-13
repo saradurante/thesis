@@ -346,16 +346,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.auxlock
 INPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /Users/sara/Documents/Github/thesis/thesis.aux
-INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
-INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -371,14 +361,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
-OUTPUT /Users/sara/Documents/Github/thesis/thesis.pdf
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
-INPUT /Users/sara/Documents/Github/thesis/thesis.out
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.out
+OUTPUT /Users/sara/Documents/Github/thesis/thesis.pdf
 OUTPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.tex
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.tex
@@ -408,19 +392,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
-INPUT /Users/sara/Documents/Github/thesis/thesis.toc
-INPUT /Users/sara/Documents/Github/thesis/thesis.toc
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
@@ -453,17 +424,70 @@ INPUT /Users/sara/Documents/Github/thesis/img/2021.png
 INPUT /Users/sara/Documents/Github/thesis/img/2020.png
 INPUT /Users/sara/Documents/Github/thesis/img/2020.png
 INPUT /Users/sara/Documents/Github/thesis/img/2020.png
+INPUT /Users/sara/Documents/Github/thesis/img/INCIDENZA.png
+INPUT /Users/sara/Documents/Github/thesis/img/INCIDENZA.png
+INPUT /Users/sara/Documents/Github/thesis/img/INCIDENZA.png
+INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
+INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
+INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
+INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
+INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
+INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
+INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
+INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
+INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
+INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
+INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/MIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/MIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/MIPI.png
+INPUT /Users/sara/Documents/Github/thesis/img/DEAUVILLE.png
+INPUT /Users/sara/Documents/Github/thesis/img/DEAUVILLE.png
+INPUT /Users/sara/Documents/Github/thesis/img/DEAUVILLE.png
 OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.tex
-INPUT /Users/sara/Documents/Github/thesis/thesis.lof
-INPUT /Users/sara/Documents/Github/thesis/thesis.lof
+INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.lof
-INPUT /Users/sara/Documents/Github/thesis/thesis.bbl
-INPUT /Users/sara/Documents/Github/thesis/thesis.bbl
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
 INPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
@@ -477,13 +501,7 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
