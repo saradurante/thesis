@@ -33,85 +33,53 @@ Warning--to sort, need author or key in img22
 Warning--to sort, need author or key in img23
 Warning--to sort, need author or key in img24
 Warning--to sort, need author or key in img25
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
+Too many commas in name 1 of "Liu S, Deng B, Yin Z, et al." for entry Cortico
 while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
+Too many commas in name 1 of "Lee DW, Santomasso BD, Locke FL, et al." for entry ASTCT
 while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
+Too many commas in name 1 of "Lee DW, Santomasso BD, Locke FL, et al." for entry ASTCT
 while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
+Too many commas in name 1 of "Liu S, Deng B, Yin Z, et al." for entry Cortico
 while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, Pan J, Lin Y, Ling Z, Wu T, Chen D, Chang AH, Gao Z, Song Y, Zhao Y, Tong C" for entry Cortico
-while executing---line 1090 of file plain.bst
-You've used 53 entries,
+You've used 54 entries,
             2118 wiz_defined-function locations,
-            655 strings with 7279 characters,
-and the built_in function-call counts, 9527 in all, are:
-= -- 783
-> -- 251
+            660 strings with 7408 characters,
+and the built_in function-call counts, 9765 in all, are:
+= -- 803
+> -- 258
 < -- 0
-+ -- 119
-- -- 66
-* -- 313
-:= -- 1299
-add.period$ -- 86
-call.type$ -- 53
-change.case$ -- 192
++ -- 122
+- -- 68
+* -- 324
+:= -- 1338
+add.period$ -- 89
+call.type$ -- 54
+change.case$ -- 196
 chr.to.int$ -- 0
-cite$ -- 78
-duplicate$ -- 406
-empty$ -- 1222
-format.name$ -- 66
-if$ -- 2187
+cite$ -- 79
+duplicate$ -- 420
+empty$ -- 1250
+format.name$ -- 68
+if$ -- 2239
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 5
-newline$ -- 195
-num.names$ -- 56
-pop$ -- 429
+int.to.str$ -- 54
+missing$ -- 6
+newline$ -- 200
+num.names$ -- 58
+pop$ -- 437
 preamble$ -- 1
-purify$ -- 139
+purify$ -- 142
 quote$ -- 0
-skip$ -- 519
+skip$ -- 526
 stack$ -- 0
-substring$ -- 265
-swap$ -- 58
+substring$ -- 270
+swap$ -- 60
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 212
+type$ -- 216
 warning$ -- 25
-while$ -- 56
-width$ -- 55
-write$ -- 338
-(There were 20 error messages)
+while$ -- 58
+width$ -- 56
+write$ -- 348
+(There were 4 error messages)

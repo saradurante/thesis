@@ -121,6 +121,12 @@ National~Cancer Institute.
 National~Cancer Institute.
 \newblock {Radiation Therapy to Treat Cancer}.
 
+\bibitem{ASTCT}
+Locke FL et~al. Lee~DW, Santomasso~BD.
+\newblock { ASTCT Consensus Grading for Cytokine Release Syndrome and
+  Neurologic Toxicity Associated with Immune Effector Cells}.
+\newblock In {\em { Biol Blood Marrow Transplant}}, April 2019.
+
 \bibitem{LLSCART}
 Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
@@ -141,8 +147,7 @@ Hancock~BW. Lim~SY, Horsman~JM.
   Does it work in routine practice?}}, Jan 2010.
 
 \bibitem{Cortico}
-Yin Z Pan J Lin Y Ling Z Wu T Chen D Chang AH Gao Z Song Y Zhao Y Tong~C Liu~S,
-  Deng~B.
+Yin Z et~al. Liu~S, Deng~B.
 \newblock { Corticosteroids do not influence the efficacy and kinetics of CAR-T
   cells for B-cell acute lymphoblastic leukemia}.
 \newblock In {\em { Blood cancer journal}}, Feb 2020.
