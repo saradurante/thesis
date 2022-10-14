@@ -356,6 +356,8 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -459,39 +461,39 @@ INPUT /Users/sara/Documents/Github/thesis/img/INCIDENZA.png
 INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
 INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
 INPUT /Users/sara/Documents/Github/thesis/img/MORTALITA.png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated new cases, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Estimated deaths, 2022 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
-INPUT /Users/sara/Documents/Github/thesis/img/Incidence rates, 2014-2018 (by race and ethnicity).png
-INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/Trends in incidence rates, 1975-2018 (by sex).png
-INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
-INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
-INPUT /Users/sara/Documents/Github/thesis/img/5-year relative survival, 2011-2017 (by stage at diagnosis).png
-INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
-INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
-INPUT /Users/sara/Documents/Github/thesis/img/Probability of developing cancer, 2016-2018 (undefined).png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimatednewcases2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimatednewcases2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimatednewcases2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimateddeaths2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimateddeaths2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Estimateddeaths2022.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18race-ethnicity.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18race-ethnicity.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates2014-18race-ethnicity.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates1975-2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates1975-2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/Incidencerates1975-2018.png
+INPUT /Users/sara/Documents/Github/thesis/img/5-yearrelativesurvival2011-2017.png
+INPUT /Users/sara/Documents/Github/thesis/img/5-yearrelativesurvival2011-2017.png
+INPUT /Users/sara/Documents/Github/thesis/img/5-yearrelativesurvival2011-2017.png
+INPUT /Users/sara/Documents/Github/thesis/img/Probabilityofdevelopingcancer.png
+INPUT /Users/sara/Documents/Github/thesis/img/Probabilityofdevelopingcancer.png
+INPUT /Users/sara/Documents/Github/thesis/img/Probabilityofdevelopingcancer.png
 INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/CLASS.WHO.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
-INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
-INPUT /Users/sara/Documents/Github/thesis/img/nhl_staging_2018.png
-INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
-INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
-INPUT /Users/sara/Documents/Github/thesis/img/LUGANO AIOM.png
-INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/IPI ed AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/nhlstages.png
+INPUT /Users/sara/Documents/Github/thesis/img/nhlstages.png
+INPUT /Users/sara/Documents/Github/thesis/img/nhlstages.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANOAIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANOAIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/LUGANOAIOM.png
+INPUT /Users/sara/Documents/Github/thesis/img/IPI-AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/IPI-AAIPI.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/IPI-AAIPI.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
 INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
 INPUT /Users/sara/Documents/Github/thesis/img/FLIPI.png
@@ -507,15 +509,15 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.tex
 INPUT /Users/sara/Documents/Github/thesis/img/Atypical-reaction-to-bortezomib-with-spiderlike-extensions-of-erythema-Figure-2-Local.png
 INPUT /Users/sara/Documents/Github/thesis/img/Atypical-reaction-to-bortezomib-with-spiderlike-extensions-of-erythema-Figure-2-Local.png
 INPUT /Users/sara/Documents/Github/thesis/img/Atypical-reaction-to-bortezomib-with-spiderlike-extensions-of-erythema-Figure-2-Local.png
-INPUT /Users/sara/Documents/Github/thesis/img/bort reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bort reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bort reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction.png
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction2.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction2.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/bortezomib reaction2.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/bortreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction.png
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction2.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction2.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/bortezomibreaction2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/SEDI.png
 INPUT /Users/sara/Documents/Github/thesis/img/SEDI.png
 INPUT /Users/sara/Documents/Github/thesis/img/SEDI.png
@@ -530,24 +532,24 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /Users/sara/Documents/Github/thesis/img/SIRINGA.png
 INPUT /Users/sara/Documents/Github/thesis/img/SIRINGA.png
 INPUT /Users/sara/Documents/Github/thesis/img/SIRINGA.png
-INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/FDA Approved CAR T-Cell Therapies Table.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/car-t process.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/CART_TherapyProcess_Oct2020.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/rischio CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/severità CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/severità CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/severità CRS.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FDAApprovedCART.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FDAApprovedCART.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/FDAApprovedCART.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-tprocess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-tprocess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/car-tprocess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART-TherapyProcess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART-TherapyProcess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/CART-TherapyProcess.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischioCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischioCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/rischioCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/severitàCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/severitàCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/severitàCRS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/ICANS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/ICANS.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/ICANS.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
@@ -557,9 +559,12 @@ INPUT /Users/sara/Documents/Github/thesis/img/AUTOLOGO.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
 INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
 INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
-INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
-INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
-INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
+INPUT /Users/sara/Documents/Github/thesis/img/SignsGVHD.png
+INPUT /Users/sara/Documents/Github/thesis/img/SignsGVHD.png
+INPUT /Users/sara/Documents/Github/thesis/img/SignsGVHD.png
+OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.tex
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.tex
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.lof
@@ -579,6 +584,8 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
