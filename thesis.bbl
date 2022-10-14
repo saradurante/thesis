@@ -21,11 +21,17 @@
 \bibitem{img25}
 {https://www.ematologiainprogress.it/cellule-car-t/}.
 
+\bibitem{img27}
+{https://www.ematologiainprogress.it/cellule-car-t/}.
+
 \bibitem{img15}
 {https://www.ematologiainprogress.it/linfoma-non-hodgkin/}.
 
 \bibitem{img18}
 {https://www.ematologiainprogress.it/linfoma-non-hodgkin/}.
+
+\bibitem{img26}
+{https://www.ematologiainprogress.it/wp-content/uploads/2020/08/Tabella-II.jpg}.
 
 \bibitem{img19}
 {https://www.infomedics.it/therapeutic-areas/leucemie-e-linfomi/lnh/linfoma-follicolare/indici-prognostici-linfoma-follicolare.html}.
@@ -36,11 +42,20 @@
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
 
+\bibitem{img30}
+{https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e}.
+
+\bibitem{img29}
+{https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e/figure/3}.
+
 \bibitem{img17}
 {shorturl.at/BENX3}.
 
 \bibitem{img21}
 {shorturl.at/BENX3}.
+
+\bibitem{img28}
+{shorturl.at/djtxT}.
 
 \bibitem{img20}
 {shorturl.at/dtxH1}.
@@ -75,6 +90,22 @@
 \bibitem{img5}
 {shorturl.at/qsuWY}.
 
+\bibitem{img31}
+{shorturl.at/uPT79}.
+
+\bibitem{img32}
+{shorturl.at/uPT79}.
+
+\bibitem{img33}
+{shorturl.at/uPT79}.
+
+\bibitem{img34}
+{shorturl.at/uPT79}.
+
+\bibitem{LYMPHOMACTION}
+Lymphoma Action.
+\newblock {Low-grade non-Hodgkin lymphoma}.
+
 \bibitem{LINFOMIAIL}
 AIL.
 \newblock {Linfomi AIL}.
@@ -86,6 +117,10 @@ AIL.
 \bibitem{LNHAIMAC}
 AIMAC.
 \newblock {AIMAC}.
+
+\bibitem{MASSIVEBIO}
+Massive Bio.
+\newblock {Immunotherapy for Non-Hodgkin Lymphoma}.
 
 \bibitem{AIRC}
 Associazione Italiana~Ricerca Cancro.
@@ -120,6 +155,12 @@ National~Cancer Institute.
 \bibitem{NIH}
 National~Cancer Institute.
 \newblock {Radiation Therapy to Treat Cancer}.
+
+\bibitem{BORTEZOMIB}
+Milliron~T Kurtin~S, Knop~CS.
+\newblock { Subcutaneous administration of bortezomib: strategies to reduce
+  injection site reactions.}
+\newblock In {\em { J Adv Pract Oncol.}}, November 2012.
 
 \bibitem{ASTCT}
 Locke FL et~al. Lee~DW, Santomasso~BD.
@@ -159,7 +200,11 @@ The American Cancer~Society medical and editorial~content team.
 \bibitem{Frontiers}
 Ren~Z Miao~L, Zhang~Z and Li~Y.
 \newblock { Reactions Related to CAR-T Cell Therapy}.
-\newblock In {\em { Reactions Related to CAR-T Cell Therapy}}, April 2021.
+\newblock In {\em { Front Immunol}}, April 2021.
+
+\bibitem{BORTNURSES}
+Myeloma Special~Practice Network(M-SPN).
+\newblock {BORTEZOMIB BEST PRACTICE A guide for nurses}.
 
 \bibitem{ISTGENT}
 Gentili Oncology.

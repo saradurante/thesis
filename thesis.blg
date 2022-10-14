@@ -29,57 +29,58 @@ Warning--to sort, need author or key in img18
 Warning--to sort, need author or key in img19
 Warning--to sort, need author or key in img20
 Warning--to sort, need author or key in img21
+Warning--to sort, need author or key in img28
+Warning--to sort, need author or key in img29
+Warning--to sort, need author or key in img30
+Warning--to sort, need author or key in img31
+Warning--to sort, need author or key in img32
+Warning--to sort, need author or key in img33
+Warning--to sort, need author or key in img34
 Warning--to sort, need author or key in img22
 Warning--to sort, need author or key in img23
 Warning--to sort, need author or key in img24
 Warning--to sort, need author or key in img25
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, et al." for entry Cortico
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Lee DW, Santomasso BD, Locke FL, et al." for entry ASTCT
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Lee DW, Santomasso BD, Locke FL, et al." for entry ASTCT
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Liu S, Deng B, Yin Z, et al." for entry Cortico
-while executing---line 1090 of file plain.bst
-You've used 54 entries,
+Warning--to sort, need author or key in img26
+Warning--to sort, need author or key in img27
+You've used 67 entries,
             2118 wiz_defined-function locations,
-            660 strings with 7408 characters,
-and the built_in function-call counts, 9765 in all, are:
-= -- 803
-> -- 258
+            692 strings with 8283 characters,
+and the built_in function-call counts, 11914 in all, are:
+= -- 979
+> -- 295
 < -- 0
-+ -- 122
-- -- 68
-* -- 324
-:= -- 1338
-add.period$ -- 89
-call.type$ -- 54
-change.case$ -- 196
++ -- 143
+- -- 76
+* -- 395
+:= -- 1596
+add.period$ -- 107
+call.type$ -- 67
+change.case$ -- 239
 chr.to.int$ -- 0
-cite$ -- 79
-duplicate$ -- 420
-empty$ -- 1250
-format.name$ -- 68
-if$ -- 2239
+cite$ -- 101
+duplicate$ -- 518
+empty$ -- 1551
+format.name$ -- 76
+if$ -- 2750
 int.to.chr$ -- 0
-int.to.str$ -- 54
-missing$ -- 6
-newline$ -- 200
-num.names$ -- 58
-pop$ -- 437
+int.to.str$ -- 67
+missing$ -- 7
+newline$ -- 244
+num.names$ -- 66
+pop$ -- 541
 preamble$ -- 1
-purify$ -- 142
+purify$ -- 172
 quote$ -- 0
-skip$ -- 526
+skip$ -- 653
 stack$ -- 0
-substring$ -- 270
-swap$ -- 60
+substring$ -- 335
+swap$ -- 74
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
-warning$ -- 25
-while$ -- 58
-width$ -- 56
-write$ -- 348
-(There were 4 error messages)
+type$ -- 268
+warning$ -- 34
+while$ -- 66
+width$ -- 69
+write$ -- 424
+(There were 34 warnings)
