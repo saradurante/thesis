@@ -42,45 +42,49 @@ Warning--to sort, need author or key in img24
 Warning--to sort, need author or key in img25
 Warning--to sort, need author or key in img26
 Warning--to sort, need author or key in img27
-You've used 67 entries,
+Warning--to sort, need author or key in img35
+Warning--to sort, need author or key in img36
+Warning--to sort, need author or key in img37
+Warning--to sort, need author or key in img38
+You've used 76 entries,
             2118 wiz_defined-function locations,
-            692 strings with 8283 characters,
-and the built_in function-call counts, 11914 in all, are:
-= -- 979
-> -- 295
+            720 strings with 9374 characters,
+and the built_in function-call counts, 13597 in all, are:
+= -- 1118
+> -- 340
 < -- 0
-+ -- 143
-- -- 76
-* -- 395
-:= -- 1596
-add.period$ -- 107
-call.type$ -- 67
-change.case$ -- 239
++ -- 164
+- -- 88
+* -- 456
+:= -- 1829
+add.period$ -- 123
+call.type$ -- 76
+change.case$ -- 272
 chr.to.int$ -- 0
-cite$ -- 101
-duplicate$ -- 518
-empty$ -- 1551
-format.name$ -- 76
-if$ -- 2750
+cite$ -- 114
+duplicate$ -- 595
+empty$ -- 1765
+format.name$ -- 88
+if$ -- 3135
 int.to.chr$ -- 0
-int.to.str$ -- 67
-missing$ -- 7
-newline$ -- 244
-num.names$ -- 66
-pop$ -- 541
+int.to.str$ -- 76
+missing$ -- 9
+newline$ -- 278
+num.names$ -- 76
+pop$ -- 614
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 196
 quote$ -- 0
-skip$ -- 653
+skip$ -- 738
 stack$ -- 0
-substring$ -- 335
-swap$ -- 74
+substring$ -- 380
+swap$ -- 85
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 268
-warning$ -- 34
-while$ -- 66
-width$ -- 69
-write$ -- 424
-(There were 34 warnings)
+type$ -- 304
+warning$ -- 38
+while$ -- 76
+width$ -- 78
+write$ -- 485
+(There were 38 warnings)

@@ -3,6 +3,12 @@
 \bibitem{img4}
 {hshorturl.at/ilnV5}.
 
+\bibitem{img38}
+{https://bethematch.org/patients-and-families/life-after-transplant/physical-health-and-recovery/gvhd-signs-and-symptoms/}.
+
+\bibitem{img35}
+{https://filinf.it/en/about-limphomas/transplantation/}.
+
 \bibitem{img24}
 {https://m.teamintraining.org/treatment/types-of-treatment/immunotherapy/chimeric-antigen-receptor-car-t-cell-therapy}.
 
@@ -38,6 +44,12 @@
 
 \bibitem{img16}
 {https://www.lls.org/lymphoma/non-hodgkin-lymphoma/diagnosis/nhl-staging}.
+
+\bibitem{img36}
+{https://www.lls.org/treatment/types-treatment/stem-cell-transplantation/autologous-stem-cell-transplantation}.
+
+\bibitem{img37}
+{https://www.lls.org/treatment/types-treatment/stem-cell-transplantation/autologous-stem-cell-transplantation}.
 
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
@@ -142,6 +154,12 @@ Associazione~Italiana di~Oncologia~Medica.
 Istituto~Superiore di~Sanità.
 \newblock {Linfoma non Hodgkin (LNH)}.
 
+\bibitem{TRAPIANTO}
+Unità~Operativa e~Centro Trapianti~di Midollo Osseo “Wilma Deplano”.
+  Ospedale Oncologico “Armando Businco”~Cagliari.
+\newblock {IL TRAPIANTO DI MIDOLLO OSSEO O DI CELLULE STAMINALI EMOPOIETICHE
+  PERIFERICHE Guida informativa per i pazienti}.
+
 \bibitem{BOOK1}
 Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock {Anatomia umana}.
@@ -168,6 +186,10 @@ Locke FL et~al. Lee~DW, Santomasso~BD.
   Neurologic Toxicity Associated with Immune Effector Cells}.
 \newblock In {\em { Biol Blood Marrow Transplant}}, April 2019.
 
+\bibitem{LLSBLOOD}
+Leukemia and Lymphoma Society.
+\newblock {Blood and Marrow Stem Cell Transplantation Guide}.
+
 \bibitem{LLSCART}
 Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
@@ -180,18 +202,30 @@ Leukemia and Lymphoma Society.
 Leukemia and Lymphoma Society.
 \newblock {Non-Hodgkin Lymphoma}.
 
+\bibitem{TRANS}
+Zhang C et~al. Li~C, Zhang~Y.
+\newblock { Comparation of CART19 and autologous stem-cell transplantation for
+  refractory/relapsed non-Hodgkin's lymphoma.}
+\newblock In {\em { JCI Insight.}}, July 2019.
+
 \bibitem{MIPI}
 Hancock~BW. Lim~SY, Horsman~JM.
 \newblock {The Mantle Cell Lymphoma International Prognostic Index: Does it
   work in routine practice?}
-\newblock In {\em {The Mantle Cell Lymphoma International Prognostic Index:
-  Does it work in routine practice?}}, Jan 2010.
+\newblock In {\em {Oncol Lett.}}, Jan 2010.
 
 \bibitem{Cortico}
 Yin Z et~al. Liu~S, Deng~B.
 \newblock { Corticosteroids do not influence the efficacy and kinetics of CAR-T
   cells for B-cell acute lymphoblastic leukemia}.
 \newblock In {\em { Blood cancer journal}}, Feb 2020.
+
+\bibitem{GVHD}
+Wingard JR et~al. Martin~PJ, Rizzo~JD.
+\newblock { First- and second-line systemic treatment of acute
+  graft-versus-host disease: recommendations of the American Society of Blood
+  and Marrow Transplantation.}
+\newblock In {\em { Biol Blood Marrow Transplant.}}, April 2012.
 
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
@@ -221,6 +255,10 @@ American~Cancer Society.
 \bibitem{AMERICANCANCER}
 American~Cancer Society.
 \newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
+
+\bibitem{STEMCELLS}
+American~Cancer Society.
+\newblock {Stem Cell or Bone Marrow Transplant}.
 
 \bibitem{ACSRADIATION}
 American~Cancer Society.

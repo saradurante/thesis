@@ -421,9 +421,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT /Users/sara/Documents/Github/thesis/thesis.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+OUTPUT /Users/sara/Documents/Github/thesis/thesis.toc
 OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_1.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.tex
@@ -434,13 +434,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
 OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.tex
@@ -548,6 +548,18 @@ INPUT /Users/sara/Documents/Github/thesis/img/severità CRS.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ICANS .jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/transplant.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/AUTOLOGO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/AUTOLOGO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/AUTOLOGO.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
+INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
+INPUT /Users/sara/Documents/Github/thesis/img/ALLOGENICO.jpg
+INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
+INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
+INPUT /Users/sara/Documents/Github/thesis/img/Signs of Acute and Chronic GVHD.png
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.lof
