@@ -6,48 +6,86 @@ A level-1 auxiliary file: sections/abstract.aux
 A level-1 auxiliary file: sections/chap_1.aux
 A level-1 auxiliary file: sections/chap_2.aux
 A level-1 auxiliary file: sections/chap_3.aux
+A level-1 auxiliary file: sections/chap_4.aux
 The style file: plain.bst
-I found no \citation commands---while reading file thesis.aux
 Database file #1: bibliography.bib
-You've used 0 entries,
+Warning--to sort, need author or key in img1
+Warning--to sort, need author or key in img2
+Warning--to sort, need author or key in img3
+Warning--to sort, need author or key in img4
+Warning--to sort, need author or key in img5
+Warning--to sort, need author or key in img6
+Warning--to sort, need author or key in img7
+Warning--to sort, need author or key in img8
+Warning--to sort, need author or key in img9
+Warning--to sort, need author or key in img10
+Warning--to sort, need author or key in img11
+Warning--to sort, need author or key in img12
+Warning--to sort, need author or key in img13
+Warning--to sort, need author or key in img14
+Warning--to sort, need author or key in img15
+Warning--to sort, need author or key in img16
+Warning--to sort, need author or key in img17
+Warning--to sort, need author or key in img18
+Warning--to sort, need author or key in img19
+Warning--to sort, need author or key in img20
+Warning--to sort, need author or key in img21
+Warning--to sort, need author or key in img28
+Warning--to sort, need author or key in img29
+Warning--to sort, need author or key in img30
+Warning--to sort, need author or key in img31
+Warning--to sort, need author or key in img32
+Warning--to sort, need author or key in img33
+Warning--to sort, need author or key in img34
+Warning--to sort, need author or key in img22
+Warning--to sort, need author or key in img23
+Warning--to sort, need author or key in img24
+Warning--to sort, need author or key in img25
+Warning--to sort, need author or key in img26
+Warning--to sort, need author or key in img27
+Warning--to sort, need author or key in img35
+Warning--to sort, need author or key in img36
+Warning--to sort, need author or key in img37
+Warning--to sort, need author or key in img38
+You've used 76 entries,
             2118 wiz_defined-function locations,
-            502 strings with 4100 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+            721 strings with 9393 characters,
+and the built_in function-call counts, 13597 in all, are:
+= -- 1118
+> -- 340
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 164
+- -- 88
+* -- 456
+:= -- 1829
+add.period$ -- 123
+call.type$ -- 76
+change.case$ -- 272
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 114
+duplicate$ -- 595
+empty$ -- 1765
+format.name$ -- 88
+if$ -- 3135
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 76
+missing$ -- 9
+newline$ -- 278
+num.names$ -- 76
+pop$ -- 614
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 196
 quote$ -- 0
-skip$ -- 1
+skip$ -- 738
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 380
+swap$ -- 85
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+type$ -- 304
+warning$ -- 38
+while$ -- 76
+width$ -- 78
+write$ -- 485
+(There were 38 warnings)
