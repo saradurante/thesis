@@ -18,8 +18,20 @@
 \bibitem{img46}
 {https://nursetimes.org/cateteri-venosi-centrali-e-sistema-needle-free-connectors-nfc-pills/55254}.
 
+\bibitem{img54}
+{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
+
+\bibitem{img55}
+{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
+
+\bibitem{img53}
+{https://ospedalesassuolo.it/wp-content/uploads/2012/11/Prevenzione-riconoscimento-e-gestione-delle-complicanze-Zanasi.pdf}.
+
 \bibitem{img3}
 {https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi/576-linfoma-non-hodgkin}.
+
+\bibitem{img51}
+{https://www.associazionemariocampanacci.it/wp-content/uploads/2019/01/Opuscolo-BROVIAC-7-2018-1.pdf}.
 
 \bibitem{img22}
 {https://www.cancer.gov/about-cancer/treatment/research/car-t-cells}.
@@ -51,6 +63,9 @@
 \bibitem{img19}
 {https://www.infomedics.it/therapeutic-areas/leucemie-e-linfomi/lnh/linfoma-follicolare/indici-prognostici-linfoma-follicolare.html}.
 
+\bibitem{img52}
+{https://www.ivteam.com/vip-score/}.
+
 \bibitem{img16}
 {https://www.lls.org/lymphoma/non-hodgkin-lymphoma/diagnosis/nhl-staging}.
 
@@ -69,6 +84,9 @@
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
 
+\bibitem{img48}
+{https://www.sciencedirect.com/science/article/pii/S2210261220301024}.
+
 \bibitem{img30}
 {https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e}.
 
@@ -78,11 +96,17 @@
 \bibitem{img39}
 {Lumbar Puncture (Spinal tap)}.
 
+\bibitem{img49}
+{shorturl.at/abEMT}.
+
 \bibitem{img17}
 {shorturl.at/BENX3}.
 
 \bibitem{img21}
 {shorturl.at/BENX3}.
+
+\bibitem{img58}
+{shorturl.at/cdoty}.
 
 \bibitem{img28}
 {shorturl.at/djtxT}.
@@ -95,6 +119,12 @@
 
 \bibitem{img7}
 {shorturl.at/FGVY1}.
+
+\bibitem{img56}
+{shorturl.at/FMZ08}.
+
+\bibitem{img57}
+{shorturl.at/FMZ08}.
 
 \bibitem{img8}
 {shorturl.at/ipq19}.
@@ -119,6 +149,9 @@
 
 \bibitem{img41}
 {shorturl.at/lwyZ9}.
+
+\bibitem{img50}
+{shorturl.at/nEIW3}.
 
 \bibitem{img47}
 {shorturl.at/qAST1}.
@@ -216,6 +249,13 @@ AIOM Associazione~Italiana di~Oncologia~Medica.
 CRO~Centro di~Riferimento Oncologico~di Aviano.
 \newblock Il picc-port guida per il paziente.
 
+\bibitem{DIETA}
+Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
+  specializzazione ARNAS – GARIBALDI di Catania U.O.C. di Ematologia (Unità
+  Accreditata ISO 9001:2008 per la gestione della~terapia antitumorale).
+\newblock La dieta nel paziente ematologico ”una guida per i malati e per i
+  loro familiari”.
+
 \bibitem{ISS}
 Istituto~Superiore di~Sanità.
 \newblock {Linfoma non Hodgkin (LNH)}.
@@ -225,6 +265,15 @@ Unità~Operativa e~Centro Trapianti~di Midollo Osseo “Wilma Deplano”.
   Ospedale Oncologico “Armando Businco”~Cagliari.
 \newblock {IL TRAPIANTO DI MIDOLLO OSSEO O DI CELLULE STAMINALI EMOPOIETICHE
   PERIFERICHE Guida informativa per i pazienti}.
+
+\bibitem{EMODIAL}
+EMODIAL.
+\newblock La gestione delle marsi (medical adhesive related skin injuries).
+
+\bibitem{FNOPIRIVISTA}
+Valentina~Ferrari Fabio~Mozzarelli.
+\newblock Le flebiti correlate ai cvp: Utilizzo della visual infusion phlebitis
+  score per un’efficace prevenzione-fnopi l'infermiere.
 
 \bibitem{BOOK1}
 Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
@@ -259,6 +308,10 @@ Leukemia and Lymphoma Society.
 \bibitem{LLSCART}
 Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
+
+\bibitem{LLSNUTRITION}
+LEUKEMIA and LYMPHOMA SOCIETY.
+\newblock Food and nutrition facts.
 
 \bibitem{LLSIMMUNO}
 Leukemia and Lymphoma Society.

@@ -57,45 +57,56 @@ Warning--to sort, need author or key in img44
 Warning--to sort, need author or key in img45
 Warning--to sort, need author or key in img46
 Warning--to sort, need author or key in img47
-You've used 104 entries,
+Warning--to sort, need author or key in img48
+Warning--to sort, need author or key in img49
+Warning--to sort, need author or key in img50
+Warning--to sort, need author or key in img51
+Warning--to sort, need author or key in img52
+Warning--to sort, need author or key in img53
+Warning--to sort, need author or key in img54
+Warning--to sort, need author or key in img55
+Warning--to sort, need author or key in img56
+Warning--to sort, need author or key in img57
+Warning--to sort, need author or key in img58
+You've used 119 entries,
             2118 wiz_defined-function locations,
-            805 strings with 11849 characters,
-and the built_in function-call counts, 18679 in all, are:
-= -- 1537
-> -- 488
+            839 strings with 13019 characters,
+and the built_in function-call counts, 21115 in all, are:
+= -- 1736
+> -- 533
 < -- 0
-+ -- 232
-- -- 128
-* -- 606
-:= -- 2560
-add.period$ -- 171
-call.type$ -- 104
-change.case$ -- 376
++ -- 257
+- -- 138
+* -- 685
+:= -- 2844
+add.period$ -- 190
+call.type$ -- 119
+change.case$ -- 426
 chr.to.int$ -- 0
-cite$ -- 151
-duplicate$ -- 798
-empty$ -- 2396
-format.name$ -- 128
-if$ -- 4283
+cite$ -- 177
+duplicate$ -- 903
+empty$ -- 2737
+format.name$ -- 138
+if$ -- 4865
 int.to.chr$ -- 0
-int.to.str$ -- 104
+int.to.str$ -- 119
 missing$ -- 10
-newline$ -- 382
-num.names$ -- 114
-pop$ -- 839
+newline$ -- 431
+num.names$ -- 122
+pop$ -- 960
 preamble$ -- 1
-purify$ -- 272
+purify$ -- 307
 quote$ -- 0
-skip$ -- 1015
+skip$ -- 1166
 stack$ -- 0
-substring$ -- 520
-swap$ -- 114
+substring$ -- 595
+swap$ -- 129
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 416
-warning$ -- 47
-while$ -- 114
-width$ -- 107
-write$ -- 666
-(There were 48 warnings)
+type$ -- 476
+warning$ -- 58
+while$ -- 122
+width$ -- 122
+write$ -- 749
+(There were 59 warnings)
