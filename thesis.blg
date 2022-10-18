@@ -9,6 +9,7 @@ A level-1 auxiliary file: sections/chap_3.aux
 A level-1 auxiliary file: sections/chap_4.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "LYMPHOMACTION"
 Warning--to sort, need author or key in img1
 Warning--to sort, need author or key in img2
 Warning--to sort, need author or key in img3
@@ -47,45 +48,65 @@ Warning--to sort, need author or key in img35
 Warning--to sort, need author or key in img36
 Warning--to sort, need author or key in img37
 Warning--to sort, need author or key in img38
-You've used 76 entries,
+Warning--to sort, need author or key in img39
+Warning--to sort, need author or key in img40
+Warning--to sort, need author or key in img41
+Warning--to sort, need author or key in img42
+Warning--to sort, need author or key in img43
+Warning--to sort, need author or key in img44
+Warning--to sort, need author or key in img45
+Warning--to sort, need author or key in img46
+Warning--to sort, need author or key in img47
+Warning--to sort, need author or key in img48
+Warning--to sort, need author or key in img49
+Warning--to sort, need author or key in img50
+Warning--to sort, need author or key in img51
+Warning--to sort, need author or key in img52
+Warning--to sort, need author or key in img53
+Warning--to sort, need author or key in img54
+Warning--to sort, need author or key in img55
+Warning--to sort, need author or key in img56
+Warning--to sort, need author or key in img57
+Warning--to sort, need author or key in img58
+You've used 119 entries,
             2118 wiz_defined-function locations,
-            721 strings with 9393 characters,
-and the built_in function-call counts, 13597 in all, are:
-= -- 1118
-> -- 340
+            839 strings with 13019 characters,
+and the built_in function-call counts, 21115 in all, are:
+= -- 1736
+> -- 533
 < -- 0
-+ -- 164
-- -- 88
-* -- 456
-:= -- 1829
-add.period$ -- 123
-call.type$ -- 76
-change.case$ -- 272
++ -- 257
+- -- 138
+* -- 685
+:= -- 2844
+add.period$ -- 190
+call.type$ -- 119
+change.case$ -- 426
 chr.to.int$ -- 0
-cite$ -- 114
-duplicate$ -- 595
-empty$ -- 1765
-format.name$ -- 88
-if$ -- 3135
+cite$ -- 177
+duplicate$ -- 903
+empty$ -- 2737
+format.name$ -- 138
+if$ -- 4865
 int.to.chr$ -- 0
-int.to.str$ -- 76
-missing$ -- 9
-newline$ -- 278
-num.names$ -- 76
-pop$ -- 614
+int.to.str$ -- 119
+missing$ -- 10
+newline$ -- 431
+num.names$ -- 122
+pop$ -- 960
 preamble$ -- 1
-purify$ -- 196
+purify$ -- 307
 quote$ -- 0
-skip$ -- 738
+skip$ -- 1166
 stack$ -- 0
-substring$ -- 380
-swap$ -- 85
+substring$ -- 595
+swap$ -- 129
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 304
-warning$ -- 38
-while$ -- 76
-width$ -- 78
-write$ -- 485
-(There were 38 warnings)
+type$ -- 476
+warning$ -- 58
+while$ -- 122
+width$ -- 122
+write$ -- 749
+(There were 59 warnings)

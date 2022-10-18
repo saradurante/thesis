@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{img4}
 {hshorturl.at/ilnV5}.
@@ -9,17 +9,38 @@
 \bibitem{img35}
 {https://filinf.it/en/about-limphomas/transplantation/}.
 
+\bibitem{img43}
+{https://infermieriattivi.it/tecniche-e-tecnologie/1862-port-a-cath-flush-con-ago-di-huber-verso.html}.
+
 \bibitem{img24}
 {https://m.teamintraining.org/treatment/types-of-treatment/immunotherapy/chimeric-antigen-receptor-car-t-cell-therapy}.
 
+\bibitem{img46}
+{https://nursetimes.org/cateteri-venosi-centrali-e-sistema-needle-free-connectors-nfc-pills/55254}.
+
+\bibitem{img54}
+{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
+
+\bibitem{img55}
+{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
+
+\bibitem{img53}
+{https://ospedalesassuolo.it/wp-content/uploads/2012/11/Prevenzione-riconoscimento-e-gestione-delle-complicanze-Zanasi.pdf}.
+
 \bibitem{img3}
 {https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi/576-linfoma-non-hodgkin}.
+
+\bibitem{img51}
+{https://www.associazionemariocampanacci.it/wp-content/uploads/2019/01/Opuscolo-BROVIAC-7-2018-1.pdf}.
 
 \bibitem{img22}
 {https://www.cancer.gov/about-cancer/treatment/research/car-t-cells}.
 
 \bibitem{img2}
 {https://www.cancer.gov/publications/dictionaries/cancer-terms/def/lymph-system}.
+
+\bibitem{img42}
+{https://www.cancer.gov/publications/dictionaries/cancer-terms/def/port-a-cath}.
 
 \bibitem{img23}
 {https://www.ematologiainprogress.it/cellule-car-t/}.
@@ -42,6 +63,9 @@
 \bibitem{img19}
 {https://www.infomedics.it/therapeutic-areas/leucemie-e-linfomi/lnh/linfoma-follicolare/indici-prognostici-linfoma-follicolare.html}.
 
+\bibitem{img52}
+{https://www.ivteam.com/vip-score/}.
+
 \bibitem{img16}
 {https://www.lls.org/lymphoma/non-hodgkin-lymphoma/diagnosis/nhl-staging}.
 
@@ -51,8 +75,17 @@
 \bibitem{img37}
 {https://www.lls.org/treatment/types-treatment/stem-cell-transplantation/autologous-stem-cell-transplantation}.
 
+\bibitem{img44}
+{https://www.officiumroma.it/wp-content/uploads/2017/09/tre-ante-porth.pdf}.
+
+\bibitem{img40}
+{https://www.ospedalimarchenord.it/percorsi-di-cura/posizionamento-picc-e-midline/}.
+
 \bibitem{img1}
 {https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
+
+\bibitem{img48}
+{https://www.sciencedirect.com/science/article/pii/S2210261220301024}.
 
 \bibitem{img30}
 {https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e}.
@@ -60,11 +93,20 @@
 \bibitem{img29}
 {https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e/figure/3}.
 
+\bibitem{img39}
+{Lumbar Puncture (Spinal tap)}.
+
+\bibitem{img49}
+{shorturl.at/abEMT}.
+
 \bibitem{img17}
 {shorturl.at/BENX3}.
 
 \bibitem{img21}
 {shorturl.at/BENX3}.
+
+\bibitem{img58}
+{shorturl.at/cdoty}.
 
 \bibitem{img28}
 {shorturl.at/djtxT}.
@@ -77,6 +119,12 @@
 
 \bibitem{img7}
 {shorturl.at/FGVY1}.
+
+\bibitem{img56}
+{shorturl.at/FMZ08}.
+
+\bibitem{img57}
+{shorturl.at/FMZ08}.
 
 \bibitem{img8}
 {shorturl.at/ipq19}.
@@ -99,8 +147,20 @@
 \bibitem{img14}
 {shorturl.at/ipq19}.
 
+\bibitem{img41}
+{shorturl.at/lwyZ9}.
+
+\bibitem{img50}
+{shorturl.at/nEIW3}.
+
+\bibitem{img47}
+{shorturl.at/qAST1}.
+
 \bibitem{img5}
 {shorturl.at/qsuWY}.
+
+\bibitem{img45}
+{shorturl.at/tDHJ8}.
 
 \bibitem{img31}
 {shorturl.at/uPT79}.
@@ -114,7 +174,33 @@
 \bibitem{img34}
 {shorturl.at/uPT79}.
 
-\bibitem{LYMPHOMACTION}
+\bibitem{GAVECELTCVC}
+GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
+\newblock Cateteri midline vs. altri accessi venosi periferici nella terapia
+  endovenosa.
+
+\bibitem{GAVECELTPICCPORT}
+GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
+\newblock Il ruolo futuro dei picc-port in oncologia.
+
+\bibitem{GAVECELTracc2021}
+GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
+\newblock Raccomandazioni gavecelt 2021 per la indicazione, l’impianto e la
+  gestione dei dispositivi per accesso venoso.
+
+\bibitem{LYMPHACTION}
+Lymphoma Action.
+\newblock {Chemotherapy}.
+
+\bibitem{CNS}
+Lymphoma Action.
+\newblock {CNS prophylaxis}.
+
+\bibitem{HIGHGRADE}
+Lymphoma Action.
+\newblock {High-grade non-Hodgkin lymphoma}.
+
+\bibitem{LOWGRADE}
 Lymphoma Action.
 \newblock {Low-grade non-Hodgkin lymphoma}.
 
@@ -135,7 +221,7 @@ Massive Bio.
 \newblock {Immunotherapy for Non-Hodgkin Lymphoma}.
 
 \bibitem{AIRC}
-Associazione Italiana~Ricerca Cancro.
+AIRC Associazione Italiana~Ricerca Cancro.
 \newblock {Guida ai tumori. Linfoma non-Hodgkin}.
 
 \bibitem{Americanstatistic}
@@ -146,9 +232,29 @@ American~Statistic Center.
 Associazione~Italiana contro Leucemie Linfomi~e Mielomi.
 \newblock {I centri autorizzati alla somministrazione delle terapie CAR-T}.
 
+\bibitem{AIOMTOSS}
+AIOM Associazione~Italiana di~Oncologia~Medica.
+\newblock Linee guida gestione della tossicit\'a ematopoietica in oncologia.
+
 \bibitem{AIOM}
-Associazione~Italiana di~Oncologia~Medica.
+AIOM Associazione~Italiana di~Oncologia~Medica.
 \newblock {Linee guida linfomi}.
+
+\bibitem{AIOMCVC}
+AIOM Associazione~Italiana di~Oncologia~Medica.
+\newblock Working group nursing gestione infermieristica degli accessi
+  vascolari centrali a medio e lungo termine nel paziente oncologico.
+
+\bibitem{CRO}
+CRO~Centro di~Riferimento Oncologico~di Aviano.
+\newblock Il picc-port guida per il paziente.
+
+\bibitem{DIETA}
+Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
+  specializzazione ARNAS – GARIBALDI di Catania U.O.C. di Ematologia (Unità
+  Accreditata ISO 9001:2008 per la gestione della~terapia antitumorale).
+\newblock La dieta nel paziente ematologico ”una guida per i malati e per i
+  loro familiari”.
 
 \bibitem{ISS}
 Istituto~Superiore di~Sanità.
@@ -159,6 +265,15 @@ Unità~Operativa e~Centro Trapianti~di Midollo Osseo “Wilma Deplano”.
   Ospedale Oncologico “Armando Businco”~Cagliari.
 \newblock {IL TRAPIANTO DI MIDOLLO OSSEO O DI CELLULE STAMINALI EMOPOIETICHE
   PERIFERICHE Guida informativa per i pazienti}.
+
+\bibitem{EMODIAL}
+EMODIAL.
+\newblock La gestione delle marsi (medical adhesive related skin injuries).
+
+\bibitem{FNOPIRIVISTA}
+Valentina~Ferrari Fabio~Mozzarelli.
+\newblock Le flebiti correlate ai cvp: Utilizzo della visual infusion phlebitis
+  score per un’efficace prevenzione-fnopi l'infermiere.
 
 \bibitem{BOOK1}
 Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
@@ -194,6 +309,10 @@ Leukemia and Lymphoma Society.
 Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
 
+\bibitem{LLSNUTRITION}
+LEUKEMIA and LYMPHOMA SOCIETY.
+\newblock Food and nutrition facts.
+
 \bibitem{LLSIMMUNO}
 Leukemia and Lymphoma Society.
 \newblock {Immunotherapy}.
@@ -201,6 +320,10 @@ Leukemia and Lymphoma Society.
 \bibitem{LLS}
 Leukemia and Lymphoma Society.
 \newblock {Non-Hodgkin Lymphoma}.
+
+\bibitem{LLSLOWCELLS}
+LEUKEMIA and LYMPHOMA SOCIETY.
+\newblock Side-effect management: Managing low blood cell counts.
 
 \bibitem{TRANS}
 Zhang C et~al. Li~C, Zhang~Y.
@@ -231,10 +354,23 @@ Wingard JR et~al. Martin~PJ, Rizzo~JD.
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Causes, Risk Factors, and Prevention}.
 
+\bibitem{MERLICCO}
+Fino~MC. Merlicco~D, Lombardi~M.
+\newblock { PICC-PORT: Valid indication to placement in patient with results of
+  extensive skin burns of the neck and chest in oncology. The first case in the
+  scientific literature.}
+\newblock In {\em { Int J Surg Case Rep.}}, February 2020.
+
 \bibitem{Frontiers}
 Ren~Z Miao~L, Zhang~Z and Li~Y.
 \newblock { Reactions Related to CAR-T Cell Therapy}.
 \newblock In {\em { Front Immunol}}, April 2021.
+
+\bibitem{FNOPI}
+MINISTERO DELLA SANITÀ DIPARTIMENTO DELLA PREVENZIONE COMMISSIONE~ONCOLOGICA
+  NAZIONALE.
+\newblock Linee guida per la sicurezza e la salute dei lavoratori esposti a
+  chemioterapici antiblastici in ambiente sanitario.
 
 \bibitem{BORTNURSES}
 Myeloma Special~Practice Network(M-SPN).
@@ -248,9 +384,30 @@ Gentili Oncology.
 Ematologia~In Progress.
 \newblock {Cellule CAR-T}.
 
+\bibitem{ISSESPO}
+ISTITUTO SUPERIORE~DI SANITÀ.
+\newblock Esposizione professionale a chemioterapici antiblastici: rischi per
+  la riproduzione e strategie per la prevenzione.
+
+\bibitem{AMERICANFERTILITY}
+American~Cancer Society.
+\newblock How cancer and cancer treatment can affect fertility.
+
+\bibitem{CHEMOAMERICAN}
+American~Cancer Society.
+\newblock {How Is Chemotherapy Used to Treat Cancer?}
+
 \bibitem{IMMUNOTP}
 American~Cancer Society.
 \newblock {Immunotherapy}.
+
+\bibitem{AMERICANPLATELET}
+American~Cancer Society.
+\newblock Low platelet count (bleeding).
+
+\bibitem{AMERICANLOWCELLS}
+American~Cancer Society.
+\newblock Low red blood cell counts (anemia).
 
 \bibitem{AMERICANCANCER}
 American~Cancer Society.
@@ -272,9 +429,17 @@ Macmillan~Cancer Support.
 Associazione Italiana~Registri Tumori.
 \newblock {Cos'è AIRTUM}.
 
+\bibitem{CHEMOUK}
+Cancer~Research UK.
+\newblock {Chemotherapy treatment}.
+
 \bibitem{UKRADIOTP}
 Cancer~Research UK.
 \newblock {Radiotherapy treatment}.
+
+\bibitem{UKFERTILITY}
+Cancer~Research UK.
+\newblock Sex and fertility.
 
 \bibitem{reteveneta}
 Rete~Ematologica Veneta.
