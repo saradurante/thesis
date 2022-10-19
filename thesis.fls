@@ -436,13 +436,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
-INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
+INPUT /Users/sara/Documents/Github/thesis/img/anatomy.jpeg
 OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_2.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_2.tex
