@@ -13,10 +13,12 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-italian/italian.ldf
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
@@ -116,8 +118,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
