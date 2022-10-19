@@ -1,0 +1,113 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: format/title_page.aux
+A level-1 auxiliary file: sections/abstract.aux
+A level-1 auxiliary file: sections/chap_1.aux
+A level-1 auxiliary file: sections/chap_2.aux
+A level-1 auxiliary file: sections/chap_3.aux
+A level-1 auxiliary file: sections/chap_4.aux
+The style file: plain.bst
+Database file #1: bibliography.bib
+Warning--to sort, need author or key in img1
+Warning--to sort, need author or key in img2
+Warning--to sort, need author or key in img3
+Warning--to sort, need author or key in img4
+Warning--to sort, need author or key in img5
+Warning--to sort, need author or key in img6
+Warning--to sort, need author or key in img7
+Warning--to sort, need author or key in img8
+Warning--to sort, need author or key in img9
+Warning--to sort, need author or key in img10
+Warning--to sort, need author or key in img11
+Warning--to sort, need author or key in img12
+Warning--to sort, need author or key in img13
+Warning--to sort, need author or key in img14
+Warning--to sort, need author or key in img15
+Warning--to sort, need author or key in img16
+Warning--to sort, need author or key in img17
+Warning--to sort, need author or key in img18
+Warning--to sort, need author or key in img19
+Warning--to sort, need author or key in img20
+Warning--to sort, need author or key in img21
+Warning--to sort, need author or key in img28
+Warning--to sort, need author or key in img29
+Warning--to sort, need author or key in img30
+Warning--to sort, need author or key in img31
+Warning--to sort, need author or key in img32
+Warning--to sort, need author or key in img33
+Warning--to sort, need author or key in img34
+Warning--to sort, need author or key in img22
+Warning--to sort, need author or key in img23
+Warning--to sort, need author or key in img24
+Warning--to sort, need author or key in img25
+Warning--to sort, need author or key in img26
+Warning--to sort, need author or key in img27
+Warning--to sort, need author or key in img35
+Warning--to sort, need author or key in img36
+Warning--to sort, need author or key in img37
+Warning--to sort, need author or key in img38
+Warning--to sort, need author or key in img39
+Warning--to sort, need author or key in img39BIS
+Warning--to sort, need author or key in img40
+Warning--to sort, need author or key in img41
+Warning--to sort, need author or key in img42
+Warning--to sort, need author or key in img43
+Warning--to sort, need author or key in img44
+Warning--to sort, need author or key in img45
+Warning--to sort, need author or key in img46
+Warning--to sort, need author or key in img47
+Warning--to sort, need author or key in img47BIS
+Warning--to sort, need author or key in img48
+Warning--to sort, need author or key in img49
+Warning--to sort, need author or key in img50
+Warning--to sort, need author or key in img51
+Warning--to sort, need author or key in img52
+Warning--to sort, need author or key in img53
+Warning--to sort, need author or key in img54
+Warning--to sort, need author or key in img55
+Warning--to sort, need author or key in img56
+Warning--to sort, need author or key in img57
+Warning--to sort, need author or key in img58
+You've used 132 entries,
+            2118 wiz_defined-function locations,
+            883 strings with 14290 characters,
+and the built_in function-call counts, 23534 in all, are:
+= -- 1936
+> -- 612
+< -- 0
++ -- 292
+- -- 160
+* -- 750
+:= -- 3213
+add.period$ -- 214
+call.type$ -- 132
+change.case$ -- 476
+chr.to.int$ -- 0
+cite$ -- 192
+duplicate$ -- 994
+empty$ -- 3025
+format.name$ -- 160
+if$ -- 5401
+int.to.chr$ -- 0
+int.to.str$ -- 132
+missing$ -- 10
+newline$ -- 481
+num.names$ -- 144
+pop$ -- 1064
+preamble$ -- 1
+purify$ -- 344
+quote$ -- 0
+skip$ -- 1296
+stack$ -- 0
+substring$ -- 660
+swap$ -- 142
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 528
+warning$ -- 60
+while$ -- 144
+width$ -- 135
+write$ -- 836
+(There were 60 warnings)
