@@ -1,57 +1,19 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{10}
 
-\bibitem{img46}
-{https://nursetimes.org/cateteri-venosi-centrali-e-sistema-needle-free-connectors-nfc-pills/55254}.
-
-\bibitem{img54}
-{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
-
-\bibitem{img55}
-{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
-
-\bibitem{img53}
-{https://ospedalesassuolo.it/wp-content/uploads/2012/11/Prevenzione-riconoscimento-e-gestione-delle-complicanze-Zanasi.pdf}.
-
-\bibitem{img47BIS}
-{https://vygon.co.uk/scrub-the-hub-versus-disinfecting-port-protectors-the-benefits-of-change/}.
-
-\bibitem{img51}
-{https://www.associazionemariocampanacci.it/wp-content/uploads/2019/01/Opuscolo-BROVIAC-7-2018-1.pdf}.
-
-\bibitem{img52}
-{https://www.ivteam.com/vip-score/}.
-
-\bibitem{img44}
-{https://www.officiumroma.it/wp-content/uploads/2017/09/tre-ante-porth.pdf}.
-
-\bibitem{img48}
-{https://www.sciencedirect.com/science/article/pii/S2210261220301024}.
-
-\bibitem{img49}
-{shorturl.at/abEMT}.
-
-\bibitem{img58}
-{shorturl.at/cdoty}.
-
-\bibitem{img56}
-{shorturl.at/FMZ08}.
-
-\bibitem{img57}
-{shorturl.at/FMZ08}.
-
-\bibitem{img50}
-{shorturl.at/nEIW3}.
-
-\bibitem{img47}
-{shorturl.at/qAST1}.
-
-\bibitem{img45}
-{shorturl.at/tDHJ8}.
+\bibitem{MERLICCO202063}
+Picc-port: Valid indication to placement in patient with results of extensive
+  skin burns of the neck and chest in oncology. the first case in the
+  scientific literature.
+\newblock {\em International Journal of Surgery Case Reports}, 68:63--66, 2020.
 
 \bibitem{GAVECELTCVC}
 GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
 \newblock Cateteri midline vs. altri accessi venosi periferici nella terapia
   endovenosa.
+
+\bibitem{img47}
+GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
+\newblock {Curos Disinfecting Port Protectors}.
 
 \bibitem{GAVECELTPICCPORT}
 GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
@@ -94,6 +56,11 @@ Associazione Italiana Ricerca~Cancro (AIRC).
 Associazione Italiana Registri~Tumori (AIRTUM).
 \newblock {Cos'è AIRTUM}.
 
+\bibitem{img53}
+Ospedale di~Sassuolo Andrea Zanasi U.O. Medicina~Interna.
+\newblock {La gestione degli accessi vascolari: Prevenzione, riconoscimento e
+  gestione delle complicanze precoci e tardive }.
+
 \bibitem{MASSIVEBIO}
 Massive Bio.
 \newblock {Immunotherapy for Non-Hodgkin Lymphoma}.
@@ -122,6 +89,15 @@ M.~Trignani D.~Musio.
 Nurse24 Daniela~Berardinelli.
 \newblock Chemioterapia ed effetti collaterali.
 
+\bibitem{img49}
+Xunta de~Galicia.
+\newblock {Types and characteristics of PICCs}.
+
+\bibitem{img51}
+ISTITUTO ORTOPEDICO RIZZOLI SSD~Reparto di~CHEMIOTERAPIA DEI TUMORI
+  DELL’APPARATO~LOCOMOTORE.
+\newblock {C.V.C. BROVIAC-HICKMAN}.
+
 \bibitem{img4-6-7}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {I NUMERI DEL CANCRO IN ITALIA 2021}.
@@ -138,6 +114,10 @@ Associazione~Italiana di~Oncologia Medica~(AIOM).
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock Working group nursing gestione infermieristica degli accessi
   vascolari centrali a medio e lungo termine nel paziente oncologico.
+
+\bibitem{img45}
+Centro di~Riferimento Oncologico~di Aviano~(CRO).
+\newblock {GESTIONE INFERMIERISTICA DEL PORT}.
 
 \bibitem{CRO}
 Centro di~Riferimento Oncologico~di Aviano~(CRO).
@@ -183,15 +163,22 @@ Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock {Anatomia umana}.
 \newblock In {\em {Anatomia umana }}, 2019.
 
+\bibitem{img52}
+Schultz~AA. Gallant~P.
+\newblock {Evaluation of a visual infusion phlebitis scale for determining
+  appropriate discontinuation of peripheral intravenous catheters.}
+\newblock In {\em {J Infus Nurs}}, Nov-Dec 2006.
+
 \bibitem{mucositi}
 Nurse24 Giuseppe~Caldarelli.
 \newblock Mucosite del cavo orale nelle neoplasie, come gestirla?
 
 \bibitem{img43}
-Flaud P Vigier JP Merckx~J. Guiffant~G, Durussel~J.
+Gérard et~al. Guiffant.
 \newblock {Flushing ports of totally implantable venous access devices, and
   impact of the Huber point needle bevel orientation: experimental tests and
   numerical computation.}
+\newblock In {\em { Med Devices (Auckl)}}, April 2012.
 
 \bibitem{img15-18}
 Ematologia in~Progress.
@@ -268,6 +255,11 @@ Zhang C et~al. Li~C, Zhang~Y.
   refractory/relapsed non-Hodgkin's lymphoma.}
 \newblock In {\em { JCI Insight.}}, July 2019.
 
+\bibitem{img47BIS}
+Vygon~Value Life.
+\newblock {Scrub the hub versus disinfecting port protectors; the benefits of
+  change}.
+
 \bibitem{MIPI}
 Hancock~BW. Lim~SY, Horsman~JM.
 \newblock {The Mantle Cell Lymphoma International Prognostic Index: Does it
@@ -290,6 +282,18 @@ Wingard JR et~al. Martin~PJ, Rizzo~JD.
   graft-versus-host disease: recommendations of the American Society of Blood
   and Marrow Transplantation.}
 \newblock In {\em { Biol Blood Marrow Transplant.}}, April 2012.
+
+\bibitem{img58}
+Laurie Mcnichol, Carolyn Lund, Ted Rosen, and Mikel Gray.
+\newblock Medical adhesives and patient safety: State of the science consensus
+  statements for the assessment, prevention, and treatment of adhesive-related
+  skin injuries.
+\newblock {\em Orthopaedic nursing / National Association of Orthopaedic
+  Nurses}, 32:267--281, 06 2013.
+
+\bibitem{img56-57}
+Infermiera S.C. Oncologia Medica DH P.O. A.~Businco M.Dolores~Palmas.
+\newblock {Il trattamento degli stravasi dei farmaci citotossici}.
 
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
@@ -328,6 +332,10 @@ Azienda Ospedaliera Ospedali Riuniti~Marche Nord.
 \bibitem{ALOPECIA}
 REDAZIONE NURSE24.
 \newblock Alopecia in chemioterapia, la prevenzione è possibile.
+
+\bibitem{img44}
+LIFC Lazio~Comitato OFFICIUM.
+\newblock {Port-a-cath Gestione domiciliare}.
 
 \bibitem{ISTGENT}
 Gentili Oncology.
@@ -408,6 +416,16 @@ Blausen.com staff (2014).
 \bibitem{MACMILLAN}
 Macmillan~Cancer Support.
 \newblock {Radiotherapy}.
+
+\bibitem{img46}
+NURSE TIMES.
+\newblock {Cateteri Venosi Centrali e sistema needle-free connectors (NFC).
+  Pills}.
+
+\bibitem{img54-55}
+NURSE TIMES.
+\newblock {Lo stravaso dei farmaci chemioterapici: istruzioni per il
+  trattamento}.
 
 \bibitem{img5}
 Associazione Italiana~Registri Tumori.
