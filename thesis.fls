@@ -358,6 +358,8 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.aux
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -631,6 +633,9 @@ INPUT /Users/sara/Documents/Github/thesis/img/stravaso2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/Types-of-adhesive-related-skin-injury.jpg
 INPUT /Users/sara/Documents/Github/thesis/img/Types-of-adhesive-related-skin-injury.jpg
 INPUT /Users/sara/Documents/Github/thesis/img/Types-of-adhesive-related-skin-injury.jpg
+OUTPUT /Users/sara/Documents/Github/thesis/sections/chap_5.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.tex
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.tex
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 INPUT /Users/sara/Documents/Github/thesis/thesis.lof
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.lof
@@ -652,6 +657,8 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_3.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_4.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/chap_5.aux
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
 INPUT /Users/sara/Documents/Github/thesis/thesis.out
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc

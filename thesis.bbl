@@ -6,6 +6,9 @@
 \bibitem{img38}
 {https://bethematch.org/patients-and-families/life-after-transplant/physical-health-and-recovery/gvhd-signs-and-symptoms/}.
 
+\bibitem{img39}
+{https://curesearch.org/Lumbar-Puncture}.
+
 \bibitem{img35}
 {https://filinf.it/en/about-limphomas/transplantation/}.
 
@@ -95,9 +98,6 @@
 
 \bibitem{img29}
 {https://www.semanticscholar.org/paper/Subcutaneous-Administration-of-Bortezomib:-to-Site-Kurtin-Knop/553030bd100e9d8cca67fb7aaa875ca7f4df665e/figure/3}.
-
-\bibitem{img39}
-{Lumbar Puncture (Spinal tap)}.
 
 \bibitem{img49}
 {shorturl.at/abEMT}.
@@ -210,36 +210,40 @@ Lymphoma Action.
 Lymphoma Action.
 \newblock {Low-grade non-Hodgkin lymphoma}.
 
-\bibitem{LINFOMIAIL}
-AIL.
-\newblock {Linfomi AIL}.
-
 \bibitem{LNHAIL}
-AIL.
-\newblock {LNH AIL}.
+ASSOCIAZIONE ITALIANA CONTRO LEUCEMIE LINFOMI E~MIELOMI (AIL).
+\newblock {LINFOMA NON HODGKIN}.
 
-\bibitem{LNHAIMAC}
-AIMAC.
-\newblock {AIMAC}.
+\bibitem{LINFOMIAIL}
+ASSOCIAZIONE ITALIANA CONTRO LEUCEMIE LINFOMI E~MIELOMI (AIL).
+\newblock {PATOLOGIE EMATOLOGICHE: LINFOMI}.
+
+\bibitem{AIRC}
+Associazione Italiana Ricerca~Cancro (AIRC).
+\newblock {Guida ai tumori. Linfoma non-Hodgkin}.
+
+\bibitem{AIRTUM}
+Associazione Italiana Registri~Tumori (AIRTUM).
+\newblock {Cos'è AIRTUM}.
 
 \bibitem{MASSIVEBIO}
 Massive Bio.
 \newblock {Immunotherapy for Non-Hodgkin Lymphoma}.
 
-\bibitem{AIRC}
-AIRC Associazione Italiana~Ricerca Cancro.
-\newblock {Guida ai tumori. Linfoma non-Hodgkin}.
-
 \bibitem{COMUNICAZIONE}
 Dott.ssa~Monica Cardellicchio.
 \newblock La comunicazione tra infermiere e paziente.
 
+\bibitem{NURSE24}
+Nurse24 Carla~Gatto.
+\newblock L'occhio dell'infermiere e la comunicazione con il paziente.
+
 \bibitem{Americanstatistic}
 American~Statistic Center.
-\newblock {Linfoma non-Hodgkin 2022 Estimates}.
+\newblock {Non-Hodgkin Lymphoma 2022 Estimates}.
 
 \bibitem{AILCENTRI}
-Associazione~Italiana contro Leucemie Linfomi~e Mielomi.
+Associazione~Italiana contro Leucemie Linfomi~e Mielomi~(AIL).
 \newblock {I centri autorizzati alla somministrazione delle terapie CAR-T}.
 
 \bibitem{SCALEmucositi}
@@ -251,20 +255,20 @@ Nurse24 Daniela~Berardinelli.
 \newblock Chemioterapia ed effetti collaterali.
 
 \bibitem{AIOMTOSS}
-AIOM Associazione~Italiana di~Oncologia~Medica.
+Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock Linee guida gestione della tossicit\'a ematopoietica in oncologia.
 
 \bibitem{AIOM}
-AIOM Associazione~Italiana di~Oncologia~Medica.
+Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {Linee guida linfomi}.
 
 \bibitem{AIOMCVC}
-AIOM Associazione~Italiana di~Oncologia~Medica.
+Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock Working group nursing gestione infermieristica degli accessi
   vascolari centrali a medio e lungo termine nel paziente oncologico.
 
 \bibitem{CRO}
-CRO~Centro di~Riferimento Oncologico~di Aviano.
+Centro di~Riferimento Oncologico~di Aviano~(CRO).
 \newblock Il picc-port guida per il paziente.
 
 \bibitem{DIETA}
@@ -303,10 +307,6 @@ Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock {Anatomia umana}.
 \newblock In {\em {Anatomia umana }}, 2019.
 
-\bibitem{NURSE24}
-CARLA GATTO.
-\newblock L'occhio dell'infermiere e la comunicazione con il paziente.
-
 \bibitem{mucositi}
 Nurse24 Giuseppe~Caldarelli.
 \newblock Mucosite del cavo orale nelle neoplasie, come gestirla?
@@ -319,6 +319,10 @@ National~Cancer Institute.
 \bibitem{NIH}
 National~Cancer Institute.
 \newblock {Radiation Therapy to Treat Cancer}.
+
+\bibitem{LNHAIMAC}
+Associazione italiana malati di cancro parenti e~amici (AIMAC).
+\newblock {I linfomi non Hodgkin}.
 
 \bibitem{BORTEZOMIB}
 Milliron~T Kurtin~S, Knop~CS.
@@ -341,7 +345,7 @@ Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
 
 \bibitem{LLSNUTRITION}
-LEUKEMIA and LYMPHOMA SOCIETY.
+Leukemia and Lymphoma Society.
 \newblock Food and nutrition facts.
 
 \bibitem{LLSIMMUNO}
@@ -353,7 +357,7 @@ Leukemia and Lymphoma Society.
 \newblock {Non-Hodgkin Lymphoma}.
 
 \bibitem{LLSLOWCELLS}
-LEUKEMIA and LYMPHOMA SOCIETY.
+Leukemia and Lymphoma Society.
 \newblock Side-effect management: Managing low blood cell counts.
 
 \bibitem{TRANS}
@@ -391,7 +395,7 @@ The American Cancer~Society medical and editorial~content team.
 
 \bibitem{MERLICCO}
 Fino~MC. Merlicco~D, Lombardi~M.
-\newblock { PICC-PORT: Valid indication to placement in patient with results of
+\newblock {PICC-PORT: Valid indication to placement in patient with results of
   extensive skin burns of the neck and chest in oncology. The first case in the
   scientific literature.}
 \newblock In {\em { Int J Surg Case Rep.}}, February 2020.
@@ -477,10 +481,6 @@ American~Cancer Society.
 \bibitem{MACMILLAN}
 Macmillan~Cancer Support.
 \newblock {Radiotherapy}.
-
-\bibitem{AIRTUM}
-Associazione Italiana~Registri Tumori.
-\newblock {Cos'è AIRTUM}.
 
 \bibitem{CHEMOUK}
 Cancer~Research UK.

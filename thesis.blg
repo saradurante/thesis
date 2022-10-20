@@ -7,6 +7,7 @@ A level-1 auxiliary file: sections/chap_1.aux
 A level-1 auxiliary file: sections/chap_2.aux
 A level-1 auxiliary file: sections/chap_3.aux
 A level-1 auxiliary file: sections/chap_4.aux
+A level-1 auxiliary file: sections/chap_5.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--to sort, need author or key in img1
@@ -71,7 +72,7 @@ Warning--to sort, need author or key in img57
 Warning--to sort, need author or key in img58
 You've used 132 entries,
             2118 wiz_defined-function locations,
-            883 strings with 14290 characters,
+            883 strings with 14483 characters,
 and the built_in function-call counts, 23534 in all, are:
 = -- 1936
 > -- 612
