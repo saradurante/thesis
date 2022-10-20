@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: format/title_page.aux
+A level-1 auxiliary file: sections/abstract.aux
+A level-1 auxiliary file: sections/chap_1.aux
+A level-1 auxiliary file: sections/chap_2.aux
+A level-1 auxiliary file: sections/chap_3.aux
+A level-1 auxiliary file: sections/chap_4.aux
+A level-1 auxiliary file: sections/chap_5.aux
+The style file: plain.bst
+Database file #1: bibliography.bib
+Too many commas in name 1 of "Guiffant G,Durussel J,Flaud P,Vigier JP,Merckx J." for entry img43
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Guiffant G,Durussel J,Flaud P,Vigier JP,Merckx J." for entry img43
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in img44
+Warning--to sort, need author or key in img45
+Warning--to sort, need author or key in img46
+Warning--to sort, need author or key in img47
+Warning--to sort, need author or key in img47BIS
+Warning--to sort, need author or key in img48
+Warning--to sort, need author or key in img49
+Warning--to sort, need author or key in img50
+Warning--to sort, need author or key in img51
+Warning--to sort, need author or key in img52
+Warning--to sort, need author or key in img53
+Warning--to sort, need author or key in img54
+Warning--to sort, need author or key in img55
+Warning--to sort, need author or key in img56
+Warning--to sort, need author or key in img57
+Warning--to sort, need author or key in img58
+Too many commas in name 1 of "Guiffant G,Durussel J,Flaud P,Vigier JP,Merckx J." for entry img43
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Guiffant G,Durussel J,Flaud P,Vigier JP,Merckx J." for entry img43
+while executing---line 1090 of file plain.bst
+You've used 102 entries,
+            2118 wiz_defined-function locations,
+            850 strings with 13354 characters,
+and the built_in function-call counts, 19971 in all, are:
+= -- 1663
+> -- 683
+< -- 0
++ -- 296
+- -- 194
+* -- 636
+:= -- 3076
+add.period$ -- 199
+call.type$ -- 102
+change.case$ -- 403
+chr.to.int$ -- 0
+cite$ -- 118
+duplicate$ -- 785
+empty$ -- 2324
+format.name$ -- 194
+if$ -- 4408
+int.to.chr$ -- 0
+int.to.str$ -- 102
+missing$ -- 11
+newline$ -- 406
+num.names$ -- 172
+pop$ -- 815
+preamble$ -- 1
+purify$ -- 301
+quote$ -- 0
+skip$ -- 994
+stack$ -- 0
+substring$ -- 555
+swap$ -- 111
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 408
+warning$ -- 16
+while$ -- 174
+width$ -- 105
+write$ -- 719
+(There were 4 error messages)
