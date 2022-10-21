@@ -10,47 +10,46 @@ A level-1 auxiliary file: sections/chap_4.aux
 A level-1 auxiliary file: sections/chap_5.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
-Warning--to sort, need author or key in MERLICCO202063
-Warning--empty author in MERLICCO202063
-You've used 99 entries,
+Warning--I didn't find a database entry for "ASTCT"
+You've used 102 entries,
             2118 wiz_defined-function locations,
-            868 strings with 14105 characters,
-and the built_in function-call counts, 20420 in all, are:
-= -- 1714
-> -- 768
+            898 strings with 15665 characters,
+and the built_in function-call counts, 23487 in all, are:
+= -- 1982
+> -- 1151
 < -- 0
-+ -- 323
-- -- 224
-* -- 675
-:= -- 3302
-add.period$ -- 212
-call.type$ -- 99
-change.case$ -- 409
++ -- 474
+- -- 370
+* -- 1045
+:= -- 3906
+add.period$ -- 221
+call.type$ -- 102
+change.case$ -- 491
 chr.to.int$ -- 0
-cite$ -- 101
-duplicate$ -- 786
-empty$ -- 2261
-format.name$ -- 224
-if$ -- 4426
+cite$ -- 102
+duplicate$ -- 784
+empty$ -- 2275
+format.name$ -- 370
+if$ -- 4944
 int.to.chr$ -- 0
-int.to.str$ -- 99
-missing$ -- 15
-newline$ -- 413
-num.names$ -- 196
-pop$ -- 782
+int.to.str$ -- 102
+missing$ -- 17
+newline$ -- 428
+num.names$ -- 204
+pop$ -- 809
 preamble$ -- 1
-purify$ -- 310
+purify$ -- 389
 quote$ -- 0
-skip$ -- 953
+skip$ -- 981
 stack$ -- 0
-substring$ -- 576
-swap$ -- 110
+substring$ -- 725
+swap$ -- 104
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 396
-warning$ -- 2
-while$ -- 200
-width$ -- 101
-write$ -- 742
-(There were 2 warnings)
+type$ -- 408
+warning$ -- 0
+while$ -- 215
+width$ -- 105
+write$ -- 782
+(There was 1 warning)

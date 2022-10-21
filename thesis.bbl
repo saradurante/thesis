@@ -1,10 +1,4 @@
-\begin{thebibliography}{10}
-
-\bibitem{MERLICCO202063}
-Picc-port: Valid indication to placement in patient with results of extensive
-  skin burns of the neck and chest in oncology. the first case in the
-  scientific literature.
-\newblock {\em International Journal of Surgery Case Reports}, 68:63--66, 2020.
+\begin{thebibliography}{100}
 
 \bibitem{GAVECELTCVC}
 GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
@@ -81,6 +75,13 @@ American~Statistic Center.
 Associazione~Italiana contro Leucemie Linfomi~e Mielomi~(AIL).
 \newblock {I centri autorizzati alla somministrazione delle terapie CAR-T}.
 
+\bibitem{article3}
+Kathleen Cunningham, Heather DiFilippo, Kelli Henes, Leah Irwin, Ellen Napier,
+  and Elizabeth Weber.
+\newblock Tisagenlecleucel therapy: Nursing considerations for the outpatient
+  setting.
+\newblock {\em Seminars in Oncology Nursing}, 37:151178, 07 2021.
+
 \bibitem{SCALEmucositi}
 M.~Trignani D.~Musio.
 \newblock Tossicit\'a nei trattamenti testa-collo mucosite orale.
@@ -134,11 +135,24 @@ Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
 Istituto~Superiore di~Sanità.
 \newblock {Linfoma non Hodgkin (LNH)}.
 
+\bibitem{article2}
+Channing Dudley, Brittney Baer, and Rhea Simons.
+\newblock Utilization of chimeric antigen receptor t-cell therapy in adults.
+\newblock {\em Seminars in Oncology Nursing}, 35:150930, 09 2019.
+
 \bibitem{TRAPIANTO}
 Unità~Operativa e~Centro Trapianti~di Midollo Osseo “Wilma Deplano”.
   Ospedale Oncologico “Armando Businco”~Cagliari.
 \newblock {IL TRAPIANTO DI MIDOLLO OSSEO O DI CELLULE STAMINALI EMOPOIETICHE
   PERIFERICHE Guida informativa per i pazienti}.
+
+\bibitem{NURSINGCART}
+Rose Ellard, Michelle Kenyon, Daphna Hutt, Erik Aerts, Maaike Ruijter,
+  Christian Chabannon, Mohamad Mohty, Silvia Montoto, Elisabeth Wallhult, and
+  John Murray.
+\newblock The ebmt immune effector cell nursing guidelines on car-t therapy: A
+  framework for patient care and managing common toxicities.
+\newblock {\em Clinical Hematology International}, 4, 07 2022.
 
 \bibitem{LINEEGUIDA}
 Regione Emilia-Romagna. Servizio Sanitario~Regionale Emilia-Romagna.
@@ -164,21 +178,22 @@ Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
 \newblock In {\em {Anatomia umana }}, 2019.
 
 \bibitem{img52}
-Schultz~AA. Gallant~P.
-\newblock {Evaluation of a visual infusion phlebitis scale for determining
-  appropriate discontinuation of peripheral intravenous catheters.}
-\newblock In {\em {J Infus Nurs}}, Nov-Dec 2006.
+Paulette Gallant and Alyce Schultz.
+\newblock Evaluation of a visual infusion phlebitis scale for determining
+  appropriate discontinuation of peripheral intravenous catheters.
+\newblock {\em Journal of infusion nursing : the official publication of the
+  Infusion Nurses Society}, 29:338--45, 11 2006.
 
 \bibitem{mucositi}
 Nurse24 Giuseppe~Caldarelli.
 \newblock Mucosite del cavo orale nelle neoplasie, come gestirla?
 
 \bibitem{img43}
-Gérard et~al. Guiffant.
-\newblock {Flushing ports of totally implantable venous access devices, and
-  impact of the Huber point needle bevel orientation: experimental tests and
-  numerical computation.}
-\newblock In {\em { Med Devices (Auckl)}}, April 2012.
+Gerard Guiffant, Jean Durussel, Patrice Flaud, Jean Vigier, and Jacques Merckx.
+\newblock Flushing ports of totally implantable venous access devices, and
+  impact of the huber point needle bevel orientation: Experimental tests and
+  numerical computation.
+\newblock {\em Medical devices (Auckland, N.Z.)}, 5:31--7, 04 2012.
 
 \bibitem{img15-18}
 Ematologia in~Progress.
@@ -205,6 +220,12 @@ National~Cancer Institute.
 Associazione italiana malati di cancro parenti e~amici (AIMAC).
 \newblock {I linfomi non Hodgkin}.
 
+\bibitem{article4}
+Stephanie Jackson and Tia Wheatley.
+\newblock Chimeric antigen receptor t-cell emergencies: Inpatient
+  administration, assessment, and management.
+\newblock {\em Seminars in Oncology Nursing}, 37:151134, 03 2021.
+
 \bibitem{img28}
 Carol Knop and Todd Milliron.
 \newblock Subcutaneous administration of bortezomib: Strategies to reduce
@@ -218,12 +239,6 @@ Sandra~E. Kurtin, Carol Knop, and Todd Milliron.
   injection site reactions.
 \newblock {\em Journal of the advanced practitioner in oncology}, 3:406 -- 410,
   2012.
-
-\bibitem{ASTCT}
-Locke FL et~al. Lee~DW, Santomasso~BD.
-\newblock { ASTCT Consensus Grading for Cytokine Release Syndrome and
-  Neurologic Toxicity Associated with Immune Effector Cells}.
-\newblock In {\em { Biol Blood Marrow Transplant}}, April 2019.
 
 \bibitem{LLSBLOOD}
 Leukemia and Lymphoma Society.
@@ -250,10 +265,13 @@ Leukemia and Lymphoma Society.
 \newblock Side-effect management: Managing low blood cell counts.
 
 \bibitem{TRANS}
-Zhang C et~al. Li~C, Zhang~Y.
-\newblock { Comparation of CART19 and autologous stem-cell transplantation for
-  refractory/relapsed non-Hodgkin's lymphoma.}
-\newblock In {\em { JCI Insight.}}, July 2019.
+Caixia Li, Ying Zhang, Changfeng Zhang, Jia Chen, Xiaoyan Lou, Xiaochen Chen,
+  Liqing Kang, Nan Xu, Minghao Li, Jingwen Tan, Xiuli Sun, Jin Zhou, Zhen Yang,
+  Xiangping Zong, Pu~Wang, Ting Xu, Changju Qu, Haiwen Huang, Zhengming Jin,
+  and Depei Wu.
+\newblock Comparation of cart19 and autologous stem-cell transplantation for
+  refractory/relapsed non-hodgkin's lymphoma.
+\newblock {\em JCI insight}, 5, 07 2019.
 
 \bibitem{img47BIS}
 Vygon~Value Life.
@@ -261,27 +279,31 @@ Vygon~Value Life.
   change}.
 
 \bibitem{MIPI}
-Hancock~BW. Lim~SY, Horsman~JM.
-\newblock {The Mantle Cell Lymphoma International Prognostic Index: Does it
-  work in routine practice?}
-\newblock In {\em {Oncol Lett.}}, Jan 2010.
+S.Y. LIM, Janet Horsman, and B.W. HANCOCK.
+\newblock The mantle cell lymphoma international prognostic index: Does it work
+  in routine practice?
+\newblock {\em Oncology letters}, 1:187--188, 01 2010.
 
 \bibitem{Cortico}
-Yin Z et~al. Liu~S, Deng~B.
-\newblock { Corticosteroids do not influence the efficacy and kinetics of CAR-T
-  cells for B-cell acute lymphoblastic leukemia}.
-\newblock In {\em { Blood cancer journal}}, Feb 2020.
+Shuangyou Liu, Biping Deng, Jing Pan, Zhichao Yin, Yuehui Lin, Zhuojun Ling,
+  Tong Wu, Zhiyong Gao, Yanzhi Song, Yongqiang Zhao, and Chunrong Tong.
+\newblock Corticosteroids do not influence the efficacy and kinetics of car-t
+  cells for b-cell acute lymphoblastic leukemia.
+\newblock {\em Blood}, 134:228--228, 11 2019.
 
 \bibitem{ISOLAMENTO}
 SISTEMA SOCIO SANITARIO~REGIONE LOMBARDIA.
 \newblock Policy aziendale per l’isolamento del paziente in ospedale.
 
 \bibitem{GVHD}
-Wingard JR et~al. Martin~PJ, Rizzo~JD.
-\newblock { First- and second-line systemic treatment of acute
-  graft-versus-host disease: recommendations of the American Society of Blood
-  and Marrow Transplantation.}
-\newblock In {\em { Biol Blood Marrow Transplant.}}, April 2012.
+Paul Martin, J.~Rizzo, John Wingard, Karen Ballen, Peter Curtin, Corey Cutler,
+  Mark Litzow, Yago Nieto, Bipin Savani, Jeffrey Schriber, Paul Shaughnessy,
+  Donna Wall, and Paul Carpenter.
+\newblock First- and second-line systemic treatment of acute graft-versus-host
+  disease: Recommendations of the american society of blood and marrow
+  transplantation.
+\newblock {\em Biology of blood and marrow transplantation : journal of the
+  American Society for Blood and Marrow Transplantation}, 18:1150--63, 04 2012.
 
 \bibitem{img58}
 Laurie Mcnichol, Carolyn Lund, Ted Rosen, and Mikel Gray.
@@ -304,16 +326,16 @@ Info Medics.
 \newblock {Indici prognostici per il Linfoma Follicolare}.
 
 \bibitem{MERLICCO}
-Fino~MC. Merlicco~D, Lombardi~M.
-\newblock {PICC-PORT: Valid indication to placement in patient with results of
-  extensive skin burns of the neck and chest in oncology. The first case in the
-  scientific literature.}
-\newblock In {\em { Int J Surg Case Rep.}}, February 2020.
+Domenico Merlicco, M.~Lombardi, and M.C. Fino.
+\newblock Picc-port: Valid indication to placement in patient with results of
+  extensive skin burns of the neck and chest in oncology. the first case in the
+  scientific literature.
+\newblock {\em International Journal of Surgery Case Reports}, 68, 02 2020.
 
 \bibitem{Frontiers}
-Ren~Z Miao~L, Zhang~Z and Li~Y.
-\newblock { Reactions Related to CAR-T Cell Therapy}.
-\newblock In {\em { Front Immunol}}, April 2021.
+Lele Miao, Zhengchao Zhang, Zhijian Ren, and Yumin Li.
+\newblock Reactions related to car-t cell therapy.
+\newblock {\em Frontiers in Immunology}, 12, 04 2021.
 
 \bibitem{FNOPI}
 MINISTERO DELLA SANITÀ DIPARTIMENTO DELLA PREVENZIONE COMMISSIONE~ONCOLOGICA
@@ -340,6 +362,11 @@ LIFC Lazio~Comitato OFFICIUM.
 \bibitem{ISTGENT}
 Gentili Oncology.
 \newblock {Linfoma Non Hodgkin}.
+
+\bibitem{ONSCART}
+Oncology Nursing~Society (ONS).
+\newblock Chimeric antigen receptor t-cell therapy: A timeline of events and
+  adverse events.
 
 \bibitem{img1}
 Pharmacy180.
