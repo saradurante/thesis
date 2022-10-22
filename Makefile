@@ -5,7 +5,7 @@ build:
 
 bib:
 	pdflatex -interaction=nonstopmode "$(FILE).tex";
-	pdflatex -interaction=nonstopmode "$(FILE).aux";
+	bibtex "$(FILE).aux";
 	pdflatex -interaction=nonstopmode "$(FILE).tex";
 	pdflatex -interaction=nonstopmode "$(FILE).tex"
 
