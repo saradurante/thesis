@@ -13,45 +13,45 @@ A level-1 auxiliary file: sections/chap_5.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--I didn't find a database entry for "ASTCT"
-You've used 105 entries,
+You've used 106 entries,
             2118 wiz_defined-function locations,
-            920 strings with 16351 characters,
-and the built_in function-call counts, 24430 in all, are:
-= -- 2070
-> -- 1210
+            924 strings with 16423 characters,
+and the built_in function-call counts, 24623 in all, are:
+= -- 2086
+> -- 1217
 < -- 0
-+ -- 497
-- -- 390
-* -- 1119
-:= -- 4076
-add.period$ -- 230
-call.type$ -- 105
-change.case$ -- 510
++ -- 500
+- -- 392
+* -- 1124
+:= -- 4107
+add.period$ -- 232
+call.type$ -- 106
+change.case$ -- 514
 chr.to.int$ -- 0
-cite$ -- 105
-duplicate$ -- 816
-empty$ -- 2337
-format.name$ -- 390
-if$ -- 5132
+cite$ -- 106
+duplicate$ -- 823
+empty$ -- 2359
+format.name$ -- 392
+if$ -- 5174
 int.to.chr$ -- 0
-int.to.str$ -- 105
+int.to.str$ -- 106
 missing$ -- 20
-newline$ -- 443
-num.names$ -- 210
-pop$ -- 824
+newline$ -- 447
+num.names$ -- 212
+pop$ -- 832
 preamble$ -- 1
-purify$ -- 405
+purify$ -- 408
 quote$ -- 0
-skip$ -- 1002
+skip$ -- 1012
 stack$ -- 0
-substring$ -- 761
-swap$ -- 107
+substring$ -- 766
+swap$ -- 108
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 420
+type$ -- 424
 warning$ -- 0
-while$ -- 223
-width$ -- 108
-write$ -- 814
+while$ -- 225
+width$ -- 109
+write$ -- 821
 (There was 1 warning)
