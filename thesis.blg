@@ -13,45 +13,46 @@ A level-1 auxiliary file: sections/chap_5.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--I didn't find a database entry for "ASTCT"
+Warning--empty journal in Iatrogeno
 You've used 111 entries,
             2118 wiz_defined-function locations,
-            948 strings with 17369 characters,
-and the built_in function-call counts, 26125 in all, are:
-= -- 2218
-> -- 1315
+            952 strings with 17343 characters,
+and the built_in function-call counts, 26177 in all, are:
+= -- 2225
+> -- 1321
 < -- 0
-+ -- 539
-- -- 426
-* -- 1229
-:= -- 4375
-add.period$ -- 246
++ -- 541
+- -- 428
+* -- 1239
+:= -- 4389
+add.period$ -- 247
 call.type$ -- 111
-change.case$ -- 546
+change.case$ -- 547
 chr.to.int$ -- 0
-cite$ -- 111
-duplicate$ -- 875
-empty$ -- 2467
-format.name$ -- 426
-if$ -- 5474
+cite$ -- 112
+duplicate$ -- 878
+empty$ -- 2462
+format.name$ -- 428
+if$ -- 5480
 int.to.chr$ -- 0
 int.to.str$ -- 111
-missing$ -- 24
-newline$ -- 471
+missing$ -- 25
+newline$ -- 472
 num.names$ -- 222
-pop$ -- 866
+pop$ -- 863
 preamble$ -- 1
-purify$ -- 435
+purify$ -- 436
 quote$ -- 0
-skip$ -- 1052
+skip$ -- 1051
 stack$ -- 0
 substring$ -- 806
-swap$ -- 114
+swap$ -- 113
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 444
-warning$ -- 0
+warning$ -- 1
 while$ -- 236
 width$ -- 114
-write$ -- 871
-(There was 1 warning)
+write$ -- 874
+(There were 2 warnings)
