@@ -408,8 +408,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 OUTPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 OUTPUT /Users/sara/Documents/Github/thesis/sections/Conclusioni.aux
@@ -433,6 +431,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 OUTPUT /Users/sara/Documents/Github/thesis/thesis.toc
