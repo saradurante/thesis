@@ -3,56 +3,56 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: format/title_page.aux
 A level-1 auxiliary file: sections/abstract.aux
-A level-1 auxiliary file: sections/Conclusioni.aux
-A level-1 auxiliary file: sections/Ringraziamenti.aux
 A level-1 auxiliary file: sections/chap_1.aux
 A level-1 auxiliary file: sections/chap_2.aux
 A level-1 auxiliary file: sections/chap_3.aux
 A level-1 auxiliary file: sections/chap_4.aux
 A level-1 auxiliary file: sections/chap_5.aux
+A level-1 auxiliary file: sections/Conclusioni.aux
+A level-1 auxiliary file: sections/Ringraziamenti.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--I didn't find a database entry for "ASTCT"
 Warning--empty journal in Iatrogeno
-You've used 111 entries,
+You've used 112 entries,
             2118 wiz_defined-function locations,
-            952 strings with 17343 characters,
-and the built_in function-call counts, 26177 in all, are:
-= -- 2225
-> -- 1321
+            958 strings with 17884 characters,
+and the built_in function-call counts, 26981 in all, are:
+= -- 2285
+> -- 1424
 < -- 0
-+ -- 541
-- -- 428
-* -- 1239
-:= -- 4389
-add.period$ -- 247
-call.type$ -- 111
-change.case$ -- 547
++ -- 582
+- -- 468
+* -- 1327
+:= -- 4543
+add.period$ -- 250
+call.type$ -- 112
+change.case$ -- 570
 chr.to.int$ -- 0
-cite$ -- 112
-duplicate$ -- 878
-empty$ -- 2462
-format.name$ -- 428
-if$ -- 5480
+cite$ -- 113
+duplicate$ -- 888
+empty$ -- 2479
+format.name$ -- 468
+if$ -- 5619
 int.to.chr$ -- 0
-int.to.str$ -- 111
-missing$ -- 25
-newline$ -- 472
-num.names$ -- 222
-pop$ -- 863
+int.to.str$ -- 112
+missing$ -- 26
+newline$ -- 477
+num.names$ -- 224
+pop$ -- 884
 preamble$ -- 1
-purify$ -- 436
+purify$ -- 458
 quote$ -- 0
-skip$ -- 1051
+skip$ -- 1059
 stack$ -- 0
-substring$ -- 806
-swap$ -- 113
+substring$ -- 811
+swap$ -- 114
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 444
+type$ -- 448
 warning$ -- 1
-while$ -- 236
-width$ -- 114
-write$ -- 874
+while$ -- 238
+width$ -- 115
+write$ -- 885
 (There were 2 warnings)
