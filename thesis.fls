@@ -348,6 +348,8 @@ INPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.aux
@@ -405,6 +407,11 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+OUTPUT /Users/sara/Documents/Github/thesis/sections/blankpage.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.tex
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 OUTPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
@@ -412,8 +419,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /Users/sara/Documents/Github/thesis/thesis.toc
@@ -688,6 +693,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /Users/sara/Documents/Github/thesis/thesis.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
 INPUT /Users/sara/Documents/Github/thesis/format/title_page.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.aux
+INPUT /Users/sara/Documents/Github/thesis/sections/blankpage.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.aux

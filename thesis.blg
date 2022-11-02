@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: format/title_page.aux
+A level-1 auxiliary file: sections/blankpage.aux
 A level-1 auxiliary file: sections/abstract.aux
 A level-1 auxiliary file: sections/chap_1.aux
 A level-1 auxiliary file: sections/chap_2.aux
@@ -16,7 +17,7 @@ Warning--I didn't find a database entry for "ASTCT"
 Warning--empty journal in Iatrogeno
 You've used 112 entries,
             2118 wiz_defined-function locations,
-            958 strings with 17884 characters,
+            959 strings with 17906 characters,
 and the built_in function-call counts, 26981 in all, are:
 = -- 2285
 > -- 1424
