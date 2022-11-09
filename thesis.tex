@@ -1,3 +1,4 @@
+% !TEX encoding = UTF-8 Unicode
 \documentclass[11pt]{report}
 
 \usepackage[italian]{babel}
@@ -35,12 +36,14 @@
 \usepgfplotslibrary{external}
 \usepackage{hyperref}
 \usepackage{graphicx}
-%\usepackage{subcaption}
+% \usepackage{subcaption}
+\usepackage[utf8]{inputenc} % usually not needed (loaded by default)
 \usepackage[T1]{fontenc}
 \usepackage{lipsum}  
 \usepackage{longtable}
 \usepackage{tabularx}
 \usepackage{ltablex}
+\usepackage[font=small,skip=0pt]{caption}
 \usepackage[
     left = \flqq{},% 
     right = \frqq{},% 
@@ -64,15 +67,16 @@
 }
 
 \selectlanguage{italian}
+\captionsetup[figure]{font=small,skip=0pt}
+
 
 \tikzexternalize
 
 \begin{document}
-
 \include{format/title_page}
+\include{sections/blankpage}
 \include{sections/abstract}
-\include{sections/Conclusioni}
-\include{sections/Ringraziamenti}
+
 \tableofcontents
 
 \include{sections/chap_1}
@@ -80,7 +84,8 @@
 \include{sections/chap_3}
 \include{sections/chap_4}
 \include{sections/chap_5}
-
+\include{sections/Conclusioni}
+\include{sections/Ringraziamenti}
 % Rimuovere se non si vuole la tabella delle figure
 \listoffigures
 

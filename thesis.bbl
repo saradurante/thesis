@@ -5,10 +5,6 @@ GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
 \newblock Cateteri midline vs. altri accessi venosi periferici nella terapia
   endovenosa.
 
-\bibitem{img47}
-GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
-\newblock {Curos Disinfecting Port Protectors}.
-
 \bibitem{GAVECELTPICCPORT}
 GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
 \newblock Il ruolo futuro dei picc-port in oncologia.
@@ -46,9 +42,9 @@ ASSOCIAZIONE ITALIANA CONTRO LEUCEMIE LINFOMI E~MIELOMI (AIL).
 Associazione Italiana Ricerca~Cancro (AIRC).
 \newblock {Guida ai tumori. Linfoma non-Hodgkin}.
 
-\bibitem{AIRTUM}
+\bibitem{img5}
 Associazione Italiana Registri~Tumori (AIRTUM).
-\newblock {Cos'è AIRTUM}.
+\newblock {I NUMERI DEL CANCRO IN ITALIA 2020}.
 
 \bibitem{img53}
 Ospedale di~Sassuolo Andrea Zanasi U.O. Medicina~Interna.
@@ -129,10 +125,6 @@ Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock Working group nursing gestione infermieristica degli accessi
   vascolari centrali a medio e lungo termine nel paziente oncologico.
 
-\bibitem{img45}
-Centro di~Riferimento Oncologico~di Aviano~(CRO).
-\newblock {GESTIONE INFERMIERISTICA DEL PORT}.
-
 \bibitem{CRO}
 Centro di~Riferimento Oncologico~di Aviano~(CRO).
 \newblock Il picc-port guida per il paziente.
@@ -145,8 +137,12 @@ Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
   loro familiari”.
 
 \bibitem{ISS}
-Istituto~Superiore di~Sanità.
+Istituto~Superiore di~Sanità~(ISS).
 \newblock {Linfoma non Hodgkin (LNH)}.
+
+\bibitem{SCALEDOLORE}
+FONDAZIONE ISAL RICERCA~SUL DOLORE.
+\newblock Valutazione del dolore.
 
 \bibitem{article2}
 Channing Dudley, Brittney Baer, and Rhea Simons.
@@ -214,13 +210,19 @@ Gerard Guiffant, Jean Durussel, Patrice Flaud, Jean Vigier, and Jacques Merckx.
   numerical computation.
 \newblock {\em Medical devices (Auckland, N.Z.)}, 5:31--7, 04 2012.
 
+\bibitem{BOOK3}
+G.~Tellarini I.~Carpanelli.
+\newblock {Il dolore in oncologia. Gestione del trattamento e assistenza}.
+\newblock In {\em {Il dolore in oncologia. Gestione del trattamento e
+  assistenza}}, 2010.
+
 \bibitem{img15-18}
 Ematologia in~Progress.
 \newblock {Linfoma non Hodgkin}.
 
 \bibitem{NIHCART}
 National~Cancer Institute.
-\newblock {CAR T Cells: Engineering Patients’ Immune Cells to Treat Their
+\newblock {CAR T Cells: Engineering Patients' Immune Cells to Treat Their
   Cancers}.
 
 \bibitem{img2}
@@ -234,6 +236,11 @@ National~Cancer Institute.
 \bibitem{NIH}
 National~Cancer Institute.
 \newblock {Radiation Therapy to Treat Cancer}.
+
+\bibitem{ISSESPO}
+ISTITUTO SUPERIORE DI~SANITÀ (ISS).
+\newblock Esposizione professionale a chemioterapici antiblastici: rischi per
+  la riproduzione e strategie per la prevenzione.
 
 \bibitem{LNHAIMAC}
 Associazione italiana malati di cancro parenti e~amici (AIMAC).
@@ -258,6 +265,18 @@ Sandra~E. Kurtin, Carol Knop, and Todd Milliron.
   injection site reactions.
 \newblock {\em Journal of the advanced practitioner in oncology}, 3:406 -- 410,
   2012.
+
+\bibitem{LEE2019625}
+Daniel~W. Lee, Bianca~D. Santomasso, Frederick~L. Locke, Armin Ghobadi,
+  Cameron~J. Turtle, Jennifer~N. Brudno, Marcela~V. Maus, Jae~H. Park, Elena
+  Mead, Steven Pavletic, William~Y. Go, Lamis Eldjerou, Rebecca~A. Gardner,
+  Noelle Frey, Kevin~J. Curran, Karl Peggs, Marcelo Pasquini, John~F. DiPersio,
+  Marcel~R.M. {van den Brink}, Krishna~V. Komanduri, Stephan~A. Grupp, and
+  Sattva~S. Neelapu.
+\newblock Astct consensus grading for cytokine release syndrome and neurologic
+  toxicity associated with immune effector cells.
+\newblock {\em Biology of Blood and Marrow Transplantation}, 25(4):625--638,
+  2019.
 
 \bibitem{LLSBLOOD}
 Leukemia and Lymphoma Society.
@@ -314,6 +333,13 @@ Shuangyou Liu, Biping Deng, Jing Pan, Zhichao Yin, Yuehui Lin, Zhuojun Ling,
 SISTEMA SOCIO SANITARIO~REGIONE LOMBARDIA.
 \newblock Policy aziendale per l’isolamento del paziente in ospedale.
 
+\bibitem{tpnonfarmacologiche}
+Luís Lopes-Júnior, Gabriela Rosa, Raphael Pessanha, Sara Schuab, Karolini
+  Nunes, and Maria Amorim.
+\newblock Efficacy of the complementary therapies in the management of cancer
+  pain in palliative care: A systematic review.
+\newblock {\em Revista Latino-Americana de Enfermagem}, 28, 09 2020.
+
 \bibitem{GVHD}
 Paul Martin, J.~Rizzo, John Wingard, Karen Ballen, Peter Curtin, Corey Cutler,
   Mark Litzow, Yago Nieto, Bipin Savani, Jeffrey Schriber, Paul Shaughnessy,
@@ -324,6 +350,20 @@ Paul Martin, J.~Rizzo, John Wingard, Karen Ballen, Peter Curtin, Corey Cutler,
 \newblock {\em Biology of blood and marrow transplantation : journal of the
   American Society for Blood and Marrow Transplantation}, 18:1150--63, 04 2012.
 
+\bibitem{Iatrogeno}
+V.~Masson and M.~Revol.
+\newblock Stravasi iatrogeni: gestione terapeutica.
+\newblock 13, 03 2015.
+
+\bibitem{ICANS}
+Marcela Maus, Sara Alexander, Jennifer Brudno, Colleen Callahan, Marco Davila,
+  Claudia Diamonte, Jorg Dietrich, Julie Fitzgerald, Matthew Frigault, Jennifer
+  Holter-Chakrabarty, Krishna Komanduri, Daniel Lee, Frederick Locke, Shannon
+  Maude, Philip McCarthy, Elena Mead, Sattva Neelapu, and Stephan Grupp.
+\newblock Society for immunotherapy of cancer (sitc) clinical practice
+  guideline on immune effector cell-related adverse events.
+\newblock {\em Journal for ImmunoTherapy of Cancer}, 8:e001511, 12 2020.
+
 \bibitem{img58}
 Laurie Mcnichol, Carolyn Lund, Ted Rosen, and Mikel Gray.
 \newblock Medical adhesives and patient safety: State of the science consensus
@@ -332,17 +372,59 @@ Laurie Mcnichol, Carolyn Lund, Ted Rosen, and Mikel Gray.
 \newblock {\em Orthopaedic nursing / National Association of Orthopaedic
   Nurses}, 32:267--281, 06 2013.
 
-\bibitem{img56-57}
-Infermiera S.C. Oncologia Medica DH P.O. A.~Businco M.Dolores~Palmas.
-\newblock {Il trattamento degli stravasi dei farmaci citotossici}.
+\bibitem{HAIRLOSS}
+The American Cancer~Society medical and editorial~content team.
+\newblock Cooling caps (scalp hypothermia) to reduce hair loss.
+
+\bibitem{HAIRLOSS2}
+The American Cancer~Society medical and editorial~content team.
+\newblock Coping with hair loss.
+
+\bibitem{AMERICANFERTILITY}
+The American Cancer~Society medical and editorial~content team.
+\newblock How cancer and cancer treatment can affect fertility.
+
+\bibitem{CHEMOAMERICAN}
+The American Cancer~Society medical and editorial~content team.
+\newblock {How Is Chemotherapy Used to Treat Cancer?}
+
+\bibitem{IMMUNOTP}
+The American Cancer~Society medical and editorial~content team.
+\newblock {Immunotherapy}.
+
+\bibitem{AMERICANPLATELET}
+The American Cancer~Society medical and editorial~content team.
+\newblock Low platelet count (bleeding).
+
+\bibitem{AMERICANLOWCELLS}
+The American Cancer~Society medical and editorial~content team.
+\newblock Low red blood cell counts (anemia).
 
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Causes, Risk Factors, and Prevention}.
 
+\bibitem{AMERICANCANCER}
+The American Cancer~Society medical and editorial~content team.
+\newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
+
+\bibitem{STEMCELLS}
+The American Cancer~Society medical and editorial~content team.
+\newblock {Stem Cell or Bone Marrow Transplant}.
+
+\bibitem{ACSRADIATION}
+The American Cancer~Society medical and editorial~content team.
+\newblock {Treating Non-Hodgkin Lymphoma}.
+
 \bibitem{img19}
 Info Medics.
 \newblock {Indici prognostici per il Linfoma Follicolare}.
+
+\bibitem{painNOC}
+Bruna Mello, Miriam Almeida, Lisiane Pruinelli, and Amalia Lucena.
+\newblock Nursing outcomes for pain assessment of patients undergoing
+  palliative care.
+\newblock {\em Revista Brasileira de Enfermagem}, 72:64--72, 02 2019.
 
 \bibitem{MERLICCO}
 Domenico Merlicco, M.~Lombardi, and M.C. Fino.
@@ -387,6 +469,10 @@ Oncology Nursing~Society (ONS).
 \newblock Chimeric antigen receptor t-cell therapy: A timeline of events and
   adverse events.
 
+\bibitem{MSD}
+MANUALE MSD-Versione per professionisti.
+\newblock {Cellula di Reed-Sternberg}.
+
 \bibitem{img1}
 Pharmacy180.
 \newblock {Anatomy and Physiology for Health Professionals: Lymphatic System
@@ -400,10 +486,12 @@ National Marrow~Donor Program.
 Ematologia~In Progress.
 \newblock {Cellule CAR-T}.
 
-\bibitem{ISSESPO}
-ISTITUTO SUPERIORE~DI SANITÀ.
-\newblock Esposizione professionale a chemioterapici antiblastici: rischi per
-  la riproduzione e strategie per la prevenzione.
+\bibitem{analgesici}
+William Rosa, Jesse Chittams, Barbara Riegel, Connie Ulrich, and Salimah
+  Meghani.
+\newblock Patient trade-offs related to analgesic use for cancer pain: A
+  maxdiff analysis study.
+\newblock {\em Pain Management Nursing}, 21, 10 2019.
 
 \bibitem{img39}
 CURE SEARCH.
@@ -415,46 +503,6 @@ AZIENDA USL TOSCANA CENTRO. DIPARTIMENTO~ONCOLOGICO SERVIZIO SANITARIO
 \newblock Protocollo clinico assistenziale prevenzione e trattamento dello
   stravaso da farmaci antiblastici.
 
-\bibitem{HAIRLOSS}
-American~Cancer Society.
-\newblock Cooling caps (scalp hypothermia) to reduce hair loss.
-
-\bibitem{HAIRLOSS2}
-American~Cancer Society.
-\newblock Coping with hair loss.
-
-\bibitem{AMERICANFERTILITY}
-American~Cancer Society.
-\newblock How cancer and cancer treatment can affect fertility.
-
-\bibitem{CHEMOAMERICAN}
-American~Cancer Society.
-\newblock {How Is Chemotherapy Used to Treat Cancer?}
-
-\bibitem{IMMUNOTP}
-American~Cancer Society.
-\newblock {Immunotherapy}.
-
-\bibitem{AMERICANPLATELET}
-American~Cancer Society.
-\newblock Low platelet count (bleeding).
-
-\bibitem{AMERICANLOWCELLS}
-American~Cancer Society.
-\newblock Low red blood cell counts (anemia).
-
-\bibitem{AMERICANCANCER}
-American~Cancer Society.
-\newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
-
-\bibitem{STEMCELLS}
-American~Cancer Society.
-\newblock {Stem Cell or Bone Marrow Transplant}.
-
-\bibitem{ACSRADIATION}
-American~Cancer Society.
-\newblock {Treating Non-Hodgkin Lymphoma}.
-
 \bibitem{img41}
 Blausen.com staff (2014).
 \newblock {"Medical gallery of Blausen Medical 2014"}.
@@ -463,19 +511,10 @@ Blausen.com staff (2014).
 Macmillan~Cancer Support.
 \newblock {Radiotherapy}.
 
-\bibitem{img46}
-NURSE TIMES.
-\newblock {Cateteri Venosi Centrali e sistema needle-free connectors (NFC).
-  Pills}.
-
-\bibitem{img54-55}
+\bibitem{STRAVASONURSE}
 NURSE TIMES.
 \newblock {Lo stravaso dei farmaci chemioterapici: istruzioni per il
   trattamento}.
-
-\bibitem{img5}
-Associazione Italiana~Registri Tumori.
-\newblock {I NUMERI DEL CANCRO IN ITALIA 2020}.
 
 \bibitem{CHEMOUK}
 Cancer~Research UK.
