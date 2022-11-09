@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: format/title_page.aux
+A level-1 auxiliary file: sections/blankpage.aux
+A level-1 auxiliary file: sections/abstract.aux
+A level-1 auxiliary file: sections/chap_1.aux
+A level-1 auxiliary file: sections/chap_2.aux
+A level-1 auxiliary file: sections/chap_3.aux
+A level-1 auxiliary file: sections/chap_4.aux
+A level-1 auxiliary file: sections/chap_5.aux
+A level-1 auxiliary file: sections/Conclusioni.aux
+A level-1 auxiliary file: sections/Ringraziamenti.aux
+The style file: plain.bst
+Database file #1: bibliography.bib
+Warning--empty journal in Iatrogeno
+You've used 109 entries,
+            2118 wiz_defined-function locations,
+            954 strings with 18218 characters,
+and the built_in function-call counts, 27521 in all, are:
+= -- 2326
+> -- 1559
+< -- 0
++ -- 631
+- -- 520
+* -- 1454
+:= -- 4649
+add.period$ -- 245
+call.type$ -- 109
+change.case$ -- 587
+chr.to.int$ -- 0
+cite$ -- 110
+duplicate$ -- 872
+empty$ -- 2427
+format.name$ -- 520
+if$ -- 5695
+int.to.chr$ -- 0
+int.to.str$ -- 109
+missing$ -- 27
+newline$ -- 466
+num.names$ -- 218
+pop$ -- 883
+preamble$ -- 1
+purify$ -- 478
+quote$ -- 0
+skip$ -- 1035
+stack$ -- 0
+substring$ -- 838
+swap$ -- 111
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 436
+warning$ -- 1
+while$ -- 234
+width$ -- 112
+write$ -- 868
+(There was 1 warning)
