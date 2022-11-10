@@ -14,45 +14,45 @@ A level-1 auxiliary file: sections/Ringraziamenti.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Warning--empty journal in Iatrogeno
-You've used 108 entries,
+You've used 107 entries,
             2118 wiz_defined-function locations,
-            951 strings with 18177 characters,
-and the built_in function-call counts, 27210 in all, are:
-= -- 2295
-> -- 1546
+            948 strings with 18183 characters,
+and the built_in function-call counts, 27017 in all, are:
+= -- 2279
+> -- 1539
 < -- 0
-+ -- 626
-- -- 516
-* -- 1431
-:= -- 4596
-add.period$ -- 242
-call.type$ -- 108
-change.case$ -- 582
++ -- 623
+- -- 514
+* -- 1426
+:= -- 4565
+add.period$ -- 240
+call.type$ -- 107
+change.case$ -- 578
 chr.to.int$ -- 0
-cite$ -- 109
-duplicate$ -- 861
-empty$ -- 2402
-format.name$ -- 516
-if$ -- 5630
+cite$ -- 108
+duplicate$ -- 854
+empty$ -- 2380
+format.name$ -- 514
+if$ -- 5588
 int.to.chr$ -- 0
-int.to.str$ -- 108
+int.to.str$ -- 107
 missing$ -- 26
-newline$ -- 461
-num.names$ -- 216
-pop$ -- 880
+newline$ -- 457
+num.names$ -- 214
+pop$ -- 872
 preamble$ -- 1
-purify$ -- 474
+purify$ -- 471
 quote$ -- 0
-skip$ -- 1027
+skip$ -- 1017
 stack$ -- 0
-substring$ -- 815
-swap$ -- 110
+substring$ -- 810
+swap$ -- 109
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 432
+type$ -- 428
 warning$ -- 1
-while$ -- 231
-width$ -- 111
-write$ -- 857
+while$ -- 229
+width$ -- 110
+write$ -- 850
 (There was 1 warning)
