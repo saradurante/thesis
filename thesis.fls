@@ -339,6 +339,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ltablex/ltablex.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ltablex/ltablex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
