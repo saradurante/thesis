@@ -29,22 +29,43 @@ Lymphoma Action.
 \bibitem{LOWGRADE}
 Lymphoma Action.
 \newblock {Low-grade non-Hodgkin lymphoma}.
+\newblock
+  \url{https://lymphoma-action.org.uk/sites/default/files/media/documents/2022-02/LA_Low-grade%20non-Hodgkin%20lymphoma%20NOV%2021%20DIGITAL.pdf}.
+\newblock 8th edition September 2020. ISBN 978-1-9160205-7-3.
 
 \bibitem{LNHAIL}
 ASSOCIAZIONE ITALIANA CONTRO LEUCEMIE LINFOMI E~MIELOMI (AIL).
 \newblock {LINFOMA NON HODGKIN}.
+\newblock
+  \url{https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi/576-linfoma-non-hodgkin}.
 
 \bibitem{LINFOMIAIL}
 ASSOCIAZIONE ITALIANA CONTRO LEUCEMIE LINFOMI E~MIELOMI (AIL).
 \newblock {PATOLOGIE EMATOLOGICHE: LINFOMI}.
+\newblock
+  \url{https://www.ail.it/patologie-e-terapie/patologie-ematologiche/linfomi}.
 
 \bibitem{AIRC}
 Associazione Italiana Ricerca~Cancro (AIRC).
 \newblock {Guida ai tumori. Linfoma non-Hodgkin}.
+\newblock
+  \url{https://www.airc.it/cancro/informazioni-tumori/guida-ai-tumori/linfoma-non-hodgkin}.
+\newblock 22 Maggio 2018.
 
 \bibitem{img5}
 Associazione Italiana Registri~Tumori (AIRTUM).
 \newblock {I NUMERI DEL CANCRO IN ITALIA 2020}.
+\newblock
+  \url{https://www.registri-tumori.it/cms/sites/default/files/pubblicazioni/new_NDC2020-operatori-web.pdf}.
+\newblock Anno 2020.
+
+\bibitem{EMATOCART}
+Michela Ansuinelli Università Sapienza Roma Robin Foà Professore Emerito di
+  Ematologia Università Sapienza~Roma Alice Di Rocco Ricercatrice (RTDA)
+  Università "Sapienza"~di Roma.
+\newblock {Cellule CAR-T}.
+\newblock \url{https://www.ematologiainprogress.it/cellule-car-t/}.
+\newblock 31 Agosto 2020.
 
 \bibitem{img53}
 Ospedale di~Sassuolo Andrea Zanasi U.O. Medicina~Interna.
@@ -61,6 +82,8 @@ Abbas Balouchi, Abdolghani Abdollahimohammad, Salehoddin Bouya, and Esra
 \bibitem{MASSIVEBIO}
 Massive Bio.
 \newblock {Immunotherapy for Non-Hodgkin Lymphoma}.
+\newblock \url{https://massivebio.com/immunotherapy-for-lymphoma/}.
+\newblock 01/05/2022.
 
 \bibitem{PAINONS}
 Jeannine Brant, Linda Eaton, and Margaret Irwin.
@@ -79,10 +102,14 @@ Nurse24 Carla~Gatto.
 \bibitem{Americanstatistic}
 American~Statistic Center.
 \newblock {Non-Hodgkin Lymphoma 2022 Estimates}.
+\newblock
+  \url{https://cancerstatisticscenter.cancer.org/#!/cancer-site/Non-Hodgkin%20lymphoma}.
 
 \bibitem{AILCENTRI}
 Associazione~Italiana contro Leucemie Linfomi~e Mielomi~(AIL).
 \newblock {I centri autorizzati alla somministrazione delle terapie CAR-T}.
+\newblock
+  \url{https://www.ail.it/patologie-e-terapie/terapie/car-t/l-accesso-alle-car-t/centri-autorizzati}.
 
 \bibitem{article3}
 Kathleen Cunningham, Heather DiFilippo, Kelli Henes, Leah Irwin, Ellen Napier,
@@ -107,6 +134,9 @@ ISTITUTO ORTOPEDICO RIZZOLI SSD~Reparto di~CHEMIOTERAPIA DEI TUMORI
 \bibitem{img4-6-7}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {I NUMERI DEL CANCRO IN ITALIA 2021}.
+\newblock
+  \url{https://www.aiom.it/wp-content/uploads/2021/10/2021_NumeriCancro_web.pdf}.
+\newblock Anno 2021.
 
 \bibitem{AIOMTOSS}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
@@ -115,6 +145,9 @@ Associazione~Italiana di~Oncologia Medica~(AIOM).
 \bibitem{AIOM}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {Linee guida linfomi}.
+\newblock
+  \url{https://www.aiom.it/wp-content/uploads/2018/11/2018_LG_AIOM_Linfomi.pdf}.
+\newblock Edizione 2018.
 
 \bibitem{AIOMCVC}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
@@ -135,6 +168,9 @@ Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
 \bibitem{ISS}
 Istituto~Superiore di~Sanità~(ISS).
 \newblock {Linfoma non Hodgkin (LNH)}.
+\newblock
+  \url{https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/l/linfoma-non-hodgkin#diagnosi}.
+\newblock 17 Gennaio 2022.
 
 \bibitem{SCALEDOLORE}
 FONDAZIONE ISAL RICERCA~SUL DOLORE.
@@ -177,6 +213,7 @@ Valentina Ferrari-Rivista L'infermiere Portale di Aggiornamento Professionale
 \bibitem{img35}
 Fondazione Italiana~Linfomi (FIL).
 \newblock {Transplantation}.
+\newblock \url{https://filinf.it/en/about-limphomas/transplantation/}.
 
 \bibitem{BOOK1}
 Judi L.~Nath Frederic H.~Martini, Robert B.~Tallitsch.
@@ -213,18 +250,19 @@ G.~Tellarini I.~Carpanelli.
 \newblock In {\em {Il dolore in oncologia. Gestione del trattamento e
   assistenza}}, 2010.
 
-\bibitem{img15-18}
-Ematologia in~Progress.
-\newblock {Linfoma non Hodgkin}.
-
 \bibitem{NIHCART}
 National~Cancer Institute.
 \newblock {CAR T Cells: Engineering Patients' Immune Cells to Treat Their
   Cancers}.
+\newblock
+  \url{https://www.cancer.gov/about-cancer/treatment/research/car-t-cells}.
+\newblock March 10, 2022.
 
 \bibitem{img2}
 National~Cancer Institute.
 \newblock {Lymph System}.
+\newblock
+  \url{https://www.cancer.gov/publications/dictionaries/cancer-terms/def/lymph-system}.
 
 \bibitem{img42}
 National~Cancer Institute.
@@ -233,6 +271,9 @@ National~Cancer Institute.
 \bibitem{NIH}
 National~Cancer Institute.
 \newblock {Radiation Therapy to Treat Cancer}.
+\newblock
+  \url{https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy}.
+\newblock January 8, 2019.
 
 \bibitem{ISSESPO}
 ISTITUTO SUPERIORE DI~SANITÀ (ISS).
@@ -242,6 +283,9 @@ ISTITUTO SUPERIORE DI~SANITÀ (ISS).
 \bibitem{LNHAIMAC}
 Associazione italiana malati di cancro parenti e~amici (AIMAC).
 \newblock {I linfomi non Hodgkin}.
+\newblock
+  \url{https://www.aimac.it/libretti-tumore/linfomi-non-hodgkin/qual-e-la-differenza-tra-linfoma-di-hodgkin-e-linfomi-non-hodgkin#:~:text=Un%20linfoma%20non%20Hodgkin%20si,dei%20linfomi%20del%20secondo%20tipo}.
+\newblock 9 Settembre 2022.
 
 \bibitem{article4}
 Stephanie Jackson and Tia Wheatley.
@@ -271,10 +315,16 @@ Daniel~W. Lee, Bianca~D. Santomasso, Frederick~L. Locke, Armin Ghobadi,
 \bibitem{LLSBLOOD}
 Leukemia and Lymphoma Society.
 \newblock {Blood and Marrow Stem Cell Transplantation Guide}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2021-05/PS40_BloodMarrow_2018.pdf}.
+\newblock Year 2018.
 
 \bibitem{LLSCART}
 Leukemia and Lymphoma Society.
 \newblock {Chimeric Antigen Receptor (CAR) T-Cell Therapy}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2022-07/FS27_CART_rev_7_22.pdf}.
+\newblock July 2022.
 
 \bibitem{LLSNUTRITION}
 Leukemia and Lymphoma Society.
@@ -283,10 +333,16 @@ Leukemia and Lymphoma Society.
 \bibitem{LLSIMMUNO}
 Leukemia and Lymphoma Society.
 \newblock {Immunotherapy}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2021-05/FS9_Immunotherapy_Facts2020FINAL.pdf}.
+\newblock May 2021.
 
 \bibitem{LLS}
 Leukemia and Lymphoma Society.
 \newblock {Non-Hodgkin Lymphoma}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2022-07/PS58_NHL_2022.pdf}.
+\newblock Year 2022.
 
 \bibitem{LLSLOWCELLS}
 Leukemia and Lymphoma Society.
@@ -340,6 +396,13 @@ Paul Martin, J.~Rizzo, John Wingard, Karen Ballen, Peter Curtin, Corey Cutler,
 \newblock {\em Biology of blood and marrow transplantation : journal of the
   American Society for Blood and Marrow Transplantation}, 18:1150--63, 04 2012.
 
+\bibitem{img15-18}
+Giovanni Pizzolo Università degli Studi di~Verona Massimiliano Bonifacio
+  Università degli Studi~di Verona.
+\newblock {Linfoma non Hodgkin}.
+\newblock \url{https://www.ematologiainprogress.it/linfoma-non-hodgkin/}.
+\newblock 29 Maggio 2020.
+
 \bibitem{Iatrogeno}
 V.~Masson and M.~Revol.
 \newblock Stravasi iatrogeni: gestione terapeutica.
@@ -381,6 +444,8 @@ The American Cancer~Society medical and editorial~content team.
 \bibitem{IMMUNOTP}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Immunotherapy}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/6678.00.pdf}.
+\newblock December 27, 2019.
 
 \bibitem{AMERICANPLATELET}
 The American Cancer~Society medical and editorial~content team.
@@ -393,22 +458,32 @@ The American Cancer~Society medical and editorial~content team.
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Causes, Risk Factors, and Prevention}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8718.00.pdf}.
+\newblock June 9, 2020.
 
 \bibitem{AMERICANCANCER}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Non-Hodgkin Lymphoma Early Detection, Diagnosis, and Staging}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8719.00.pdf}.
+\newblock August 1, 2018.
 
 \bibitem{STEMCELLS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Stem Cell or Bone Marrow Transplant}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/128.00.pdf}.
+\newblock March 20, 2020.
 
 \bibitem{ACSRADIATION}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Treating Non-Hodgkin Lymphoma}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8720.00.pdf}.
+\newblock August 3, 2021.
 
 \bibitem{img19}
 Info Medics.
 \newblock {Indici prognostici per il Linfoma Follicolare}.
+\newblock
+  \url{https://www.infomedics.it/therapeutic-areas/leucemie-e-linfomi/lnh/linfoma-follicolare/indici-prognostici-linfoma-follicolare.html}.
 
 \bibitem{painNOC}
 Bruna Mello, Miriam Almeida, Lisiane Pruinelli, and Amalia Lucena.
@@ -436,7 +511,10 @@ MINISTERO DELLA SANITÀ DIPARTIMENTO DELLA PREVENZIONE COMMISSIONE~ONCOLOGICA
 
 \bibitem{BORTNURSES}
 Myeloma Special~Practice Network(M-SPN).
-\newblock {BORTEZOMIB BEST PRACTICE A guide for nurses}.
+\newblock {BORTEZOMIB BEST PRACTICE: A guide for nurses}.
+\newblock
+  \url{https://myeloma.org.au/wp-content/uploads/2019/10/MSPN_Bortezomib_Best_Practice_Final.pdf}.
+\newblock October 2017.
 
 \bibitem{img40}
 Azienda Ospedaliera Ospedali Riuniti~Marche Nord.
@@ -453,6 +531,8 @@ LIFC Lazio~Comitato OFFICIUM.
 \bibitem{ISTGENT}
 Gentili Oncology.
 \newblock {Linfoma Non Hodgkin}.
+\newblock
+  \url{https://www.istitutogentili.com/it/oncologia/linfomi/linfoma-non-hodgkin/#:~:text=L'Indice%20Prognostico%20Internazionale%20(IPI,svolgere%20le%20attivit%C3%A0%20quotidiane)%20e}.
 
 \bibitem{ONSCART}
 Oncology Nursing~Society (ONS).
@@ -460,21 +540,25 @@ Oncology Nursing~Society (ONS).
   Adverse Events}.
 
 \bibitem{MSD}
-MANUALE MSD-Versione per professionisti.
+Weill Cornell Medicine. MANUALE MSD-Versione per~professionisti Peter
+  Martin~MD, Weill Cornell Medicine; John P.Leonard~MD.
 \newblock {Cellula di Reed-Sternberg}.
+\newblock
+  \url{https://www.msdmanuals.com/it/professionale/multimedia/image/cellula-di-reed-sternberg#}.
+\newblock Maggio 2022.
 
 \bibitem{img1}
 Pharmacy180.
 \newblock {Anatomy and Physiology for Health Professionals: Lymphatic System
   and Immunity }.
+\newblock
+  \url{https://www.pharmacy180.com/article/lymphatic-system-and-immunity-3637/}.
 
 \bibitem{img38}
 National Marrow~Donor Program.
 \newblock {GVHD signs and symptoms}.
-
-\bibitem{EMATOCART}
-Ematologia~In Progress.
-\newblock {Cellule CAR-T}.
+\newblock
+  \url{https://bethematch.org/patients-and-families/life-after-transplant/physical-health-and-recovery/gvhd-signs-and-symptoms/}.
 
 \bibitem{analgesici}
 William Rosa, Jesse Chittams, Barbara Riegel, Connie Ulrich, and Salimah
@@ -500,6 +584,9 @@ Blausen.com staff (2014).
 \bibitem{MACMILLAN}
 Macmillan~Cancer Support.
 \newblock {Radiotherapy}.
+\newblock
+  \url{https://www.macmillan.org.uk/cancer-information-and-support/treatment/types-of-treatment/radiotherapy}.
+\newblock 31 December 2018.
 
 \bibitem{STRAVASONURSE}
 REDAZIONE~NURSE TIMES.
@@ -509,10 +596,16 @@ REDAZIONE~NURSE TIMES.
 \bibitem{CHEMOUK}
 Cancer~Research UK.
 \newblock {Chemotherapy treatment}.
+\newblock
+  \url{https://www.cancerresearchuk.org/about-cancer/non-hodgkin-lymphoma/treatment/chemotherapy/about}.
+\newblock 21 Dec 2020.
 
 \bibitem{UKRADIOTP}
 Cancer~Research UK.
 \newblock {Radiotherapy treatment}.
+\newblock
+  \url{https://www.cancerresearchuk.org/about-cancer/non-hodgkin-lymphoma/treatment/radiotherapy/treatment}.
+\newblock 30 Dec 2020.
 
 \bibitem{UKFERTILITY}
 Cancer~Research UK.
@@ -522,6 +615,8 @@ Cancer~Research UK.
 Rete~Ematologica Veneta.
 \newblock {Percorsi Diagnostico Terapeutici Assistenziali (PDTA) LINFOMI NON
   HODGKIN}.
+\newblock \url{https://rev.aopd.veneto.it/all/PDTA_Linfomi_Non_Hodgkin.pdf}.
+\newblock 24 Febbraio 2022.
 
 \bibitem{BOOK2}
 Luciano Zocchi.

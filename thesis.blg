@@ -16,16 +16,16 @@ Database file #1: bibliography.bib
 Warning--empty journal in Iatrogeno
 You've used 107 entries,
             2118 wiz_defined-function locations,
-            947 strings with 18219 characters,
-and the built_in function-call counts, 26961 in all, are:
-= -- 2274
+            1011 strings with 22280 characters,
+and the built_in function-call counts, 27611 in all, are:
+= -- 2439
 > -- 1534
 < -- 0
 + -- 621
 - -- 512
 * -- 1420
-:= -- 4556
-add.period$ -- 240
+:= -- 4721
+add.period$ -- 304
 call.type$ -- 107
 change.case$ -- 577
 chr.to.int$ -- 0
@@ -33,17 +33,17 @@ cite$ -- 108
 duplicate$ -- 854
 empty$ -- 2377
 format.name$ -- 512
-if$ -- 5577
+if$ -- 5742
 int.to.chr$ -- 0
 int.to.str$ -- 107
 missing$ -- 26
-newline$ -- 457
+newline$ -- 521
 num.names$ -- 214
-pop$ -- 871
+pop$ -- 925
 preamble$ -- 1
 purify$ -- 470
 quote$ -- 0
-skip$ -- 1018
+skip$ -- 863
 stack$ -- 0
 substring$ -- 801
 swap$ -- 109
@@ -54,5 +54,5 @@ type$ -- 428
 warning$ -- 1
 while$ -- 229
 width$ -- 110
-write$ -- 850
+write$ -- 978
 (There was 1 warning)
