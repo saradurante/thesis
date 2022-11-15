@@ -17,9 +17,9 @@ caratteristica che permette di distinguere una cellula sana da una malata\cite{L
 \end{figure}
 
 \section{Cause}
-Sappiamo ad oggi, che è la mutazione del DNA del linfocita che porta allo sviluppo del LNH, 
+Sappiamo, ad oggi, che è la mutazione del DNA del linfocita che porta allo sviluppo del LNH, 
 ma non sono ancora note le cause per cui tale mutazione si verifica. 
-Tuttavia, alcuni fattori aumentano il rischio di sviluppo di determinati sottotipi di linfoma, come ad esempio 
+Tuttavia, alcuni fattori aumentano il rischio di sviluppo di determinati sottotipi di linfoma, come ad esempio, 
 l’indebolimento del sistema immunitario (immunodepressione), causato da terapie con farmaci 
 immunosoppressori usati nel post-trapianto o nell'infezione da HIV\cite{AMERICANCS}.\\
 Malattie autoimmuni, come il Lupus eritematoso sistemico (LES), l'artrite reumatoide, 
@@ -27,7 +27,7 @@ la malattia di Sjogren (Sjögren), la celiachia, sono correlate ad un aumento de
 in quanto l’iperattività del sistema immunitario, può provocare la crescita e la 
 divisione dei linfociti in modo incontrollato, 
 con conseguente rischio di sviluppo di cellule anomale\cite{AMERICANCS}.\\
-Sono fonte di rischio anche le infezioni virali croniche, poiché il sistema immunitario, 
+Sono fonte di rischio anche le infezioni virali croniche, poichè il sistema immunitario, 
 per combattere l’infezione, stimola una maggiore produzione di linfociti, con il rischio che si 
 verifichino mutazioni nel DNA del linfocita stesso. Esempi di infezioni virali croniche sono l’epatite C, 
 la precedente esposizione al virus di Epstein-Barr (responsabile della mononucleosi infettiva), 
@@ -51,7 +51,8 @@ ha una storia di linfoma\cite{AMERICANCS}.
 \section{Epidemiologia}
 I linfomi non-Hodgkin rappresentano globalmente il 4-5\% delle nuove diagnosi di neoplasia nella popolazione 
 occidentale e in Italia sono la quinta forma di cancro più comune negli uomini e la sesta nelle donne\cite{AIOM}. 
-Nonostante l’età media di insorgenza sia compresa tra 50 e 60 anni, il LNH colpisce tutte le età.
+L’età media di insorgenza è compresa tra 50 e 60 anni e l’incidenza tende a incrementare con l’aumentare dell’età. 
+Il LNH può tuttavia presentarsi ad ogni età.
 Secondo le statistiche, un maggiore rischio si presenta inoltre nei paesi industrializzati e nella razza 
 bianca\cite{AMERICANCS}.
 
@@ -76,7 +77,7 @@ Nonostante ciò, la mortalità resta stabile negli anni\cite{AIRC}.
     \fbox{\includegraphics[width=0.5\columnwidth]{img/2021.png}}
     \vspace{-3mm}
     \end{center}
-    \caption{Registri Tumori AIRTUM. I numeri del cancro in Italia anno 2021.
+    \caption{Registri Tumori AIRTUM. I numeri del cancro in Italia per l’anno 2021.
     \cite{img4-6-7}}
     \label{fig:FIGURE_2.3}
 \end{figure}
@@ -86,7 +87,7 @@ Nonostante ciò, la mortalità resta stabile negli anni\cite{AIRC}.
     \fbox{\includegraphics[width=0.5\columnwidth]{img/2020.png}}
     \vspace{-3mm}
     \end{center}
-    \caption{Registri Tumori AIRTUM. I numeri del cancro in Italia anno 2020.
+    \caption{Registri Tumori AIRTUM. I numeri del cancro in Italia per l’anno 2020.
     \cite{img5}}
 
 \end{figure}
@@ -99,12 +100,12 @@ diagnosi di LNH e circa 20.000 decessi.
     \centering
     \begin{subfigure}[b]{0.4\textwidth}
             \includegraphics[width=\linewidth]{img/Estimatednewcases2022.png}
-            \caption{Nuovi casi di LNH anno 2022.}
+            \caption{Nuovi casi di LNH negli Stati Uniti nel 2022.}
             
     \end{subfigure}
     \begin{subfigure}[b]{0.4\textwidth}
             \includegraphics[width=\linewidth]{img/Estimateddeaths2022.png}
-            \caption{Decessi di LNH anno 2022.}
+            \caption{Decessi di LNH negli Stati Uniti nel 2022.}
             
     \end{subfigure}
 
@@ -204,17 +205,17 @@ ed alto\cite{AIOM}.\\
 Per i linfomi diffusi a grandi cellule B (DLBCL) vengono considerati IPI (Indice Prognostico Internazionale) ed aaIPI, 
 cioè IPI “aggiustato per età” (age-adjusted IPI)(Figura \ref{fig:FIGURE_2.16}).\\
 L’Indice Prognostico Internazionale si basa sulla suddivisione in stadi e prende in considerazione cinque criteri: 
-età, stadio della malattia, malattia presente anche al di fuori del sistema linfatico, 
-capacità di svolgere le attività quotidiane o performance status (ECOG)
-ed elevati livelli dell’enzima lattato-deidrogenasi (LDH). Elevati livelli ematici di tale enzima,
-indicano la presenza di danno tissutale e cellulare, valori normali sono compresi tra 80 e 300 mU/ml\cite{AIOM}.\\ 
-IPI aggiustato per età (aaIPI) è per pazienti con meno di 60 anni e i fattori di rischio per il calcolo sono: 
-stadio della malattia, performance status (ECOG), livelli elevati dell’enzima LDH.\\
+età >60 anni, stadio della malattia (III-IV), malattia presente anche al di fuori del sistema linfatico 
+(coinvolgimento di >1 sede extranodale), capacità di svolgere le attività quotidiane o performance status (ECOG)
+ed elevati livelli dell’enzima lattato-deidrogenasi (LDH); elevati livelli ematici di tale enzima,
+indicano la presenza di danno tissutale e cellulare. Valori normali sono compresi tra 80 e 300 mU/ml\cite{AIOM}.\\ 
+IPI aggiustato per età (aaIPI), è per pazienti con <60 anni, i fattori di rischio per il calcolo sono: 
+stadio della malattia (III-IV), performance status (ECOG), livelli elevati dell’enzima LDH.\\
 Attualmente per valutare la prognosi dei pazienti con linfoma follicolare, si utilizza l’indice FLIPI 
 (Follicular Lymphoma International Prognostic Index), che valuta: 
-età, elevati livelli di LDH sieriche, stadio della malattia, livelli di emoglobina (Hb) inferiori al limite minimo, 
-coinvolgimento di più di quattro sedi linfonodali (Figura \ref{fig:FIGURE_2.17}) \cite{AIOM}.\\
-Per il linfoma mantellare, l’indice usato è MIPI (Mantle cell lymphoma International Prognostic Index) 
+età >60 anni, elevati livelli di LDH sieriche, stadio (III-IV), livelli di emoglobina (Hb) inferiori al limite minimo, 
+coinvolgimento di >4 sedi linfonodali (Figura \ref{fig:FIGURE_2.17}) \cite{AIOM}.\\
+Per il linfoma mantellare, l’indice usato è il MIPI (Mantle cell lymphoma International Prognostic Index) 
 (Figura \ref{fig:FIGURE_2.18}) e i fattori di rischio presi in esame in questo caso sono: età, ECOG PS scale 
 (Eastern Cooperative Oncology Group Performance Status), livelli di LDH sierici elevati, conta leucocitaria\cite{MIPI}.
 
@@ -249,7 +250,7 @@ Per il linfoma mantellare, l’indice usato è MIPI (Mantle cell lymphoma Intern
 \end{figure}
 
 \section{Esami diagnostici}
-Il gold standard per la diagnosi di linfoma non-Hodgkin è la biopsia linfonodale. 
+Il gold standard per la diagnosi di linfoma non-hodgkin è la biopsia linfonodale. 
 È un esame che consiste nel prelievo di un frammento di tessuto o di un linfonodo, al fine di 
 accertarne la natura mediante analisi in laboratorio. 
 Generalmente la biopsia viene eseguita in anestesia locale, senza dover ricorrere ad un ricovero; 
@@ -304,7 +305,7 @@ La diagnostica per immagini può prevedere la TC collo, torace e addome o pelvi 
 la radiografia del torace in due proiezioni, associata all’ecografia completa dell’addome, possono sostituire 
 la TC in caso di pazienti anziani con disordini linfoproliferativi a decorso indolente.\\
 La PET-TC total body con 18 FDG (Fluorodesossiglucosio) è raccomandata nei linfomi detti “PET avidi” come il linfoma diffuso 
-a grandi cellule B (DLBCL), linfoma follicolare, mantellare, linfomi a cellule T, nonché nel caso di linfomi indolenti 
+a grandi dellule B (DLBCL), linfoma follicolare, mantellare, linfomi a cellule T, nonchè nel caso di linfomi indolenti 
 con sospetta trasformazione istologica. Nei pazienti con malattia non avida per FDG si può optare per la TC\cite{reteveneta}.\\ 
 
 Nei pazienti con malattia avida, la risposta alla PET viene valutata mediante i criteri di Deauville\cite{AIOM} 
@@ -331,7 +332,7 @@ trattamento\cite{AIOM}.
 In casi specifici, si valuta la necessità di ricorrere a:\\ 
 - Biopsia osteo-midollare (BOM), eseguita per prelevare un frammento di tessuto dalla cresta iliaca posteriore 
 superiore, per accertarsi che la malattia non si sia diffusa al midollo spinale; se il paziente ha una PET positiva 
-su osso, questa procedura può non essere eseguita\cite{AIOM}.\\
+su osso, questa procedura può non essere eseguita.\\
 - Visita otorinolaringoiatrica, nel caso in cui si sospetti o si sia accertata una localizzazione rino-oro-faringea.\\
 - TC/RMN cerebrale, scintigrafia scheletrica, ecografia testicolare, RX o endoscopia del tratto gastroenterico, 
 da eseguire in caso di localizzazione dubbia o sospetta a livello del SNC.\\
