@@ -1,30 +1,33 @@
 \begin{thebibliography}{100}
 
-\bibitem{GAVECELTCVC}
-GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
-\newblock {Cateteri Midline vs. altri accessi venosi periferici nella terapia
-  endovenosa}.
-
-\bibitem{GAVECELTPICCPORT}
-GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
-\newblock {Il ruolo futuro dei Picc-Port in Oncologia}.
-
 \bibitem{GAVECELTracc2021}
 GAVeCeLT Gli Accessi Venosi~Centrali a~Lungo~Termine.
 \newblock {RACCOMANDAZIONI GAVeCeLT 2021 PER LA INDICAZIONE, L’IMPIANTO E LA
   GESTIONE DEI DISPOSITIVI PER ACCESSO VENOSO}.
+\newblock
+  \url{https://gavecelt.it/nuovo/sites/default/files/uploads/Raccomandazioni%20GAVeCeLT%202021%20-%20v.2.0.pdf}.
+\newblock Anno 2021.
 
 \bibitem{LYMPHACTION}
 Lymphoma Action.
 \newblock {Chemotherapy}.
+\newblock
+  \url{https://lymphoma-action.org.uk/sites/default/files/media/documents/2021-01/LYMweb0032Chemo2021v7_0.pdf}.
+\newblock January 2021.
 
 \bibitem{CNS}
 Lymphoma Action.
 \newblock {CNS prophylaxis}.
+\newblock
+  \url{https://lymphoma-action.org.uk/sites/default/files/media/documents/2020-12/LYMweb0098CNSProphylaxis2020v3_0.pdf}.
+\newblock December 2020.
 
 \bibitem{HIGHGRADE}
 Lymphoma Action.
 \newblock {High-grade non-Hodgkin lymphoma}.
+\newblock
+  \url{https://lymphoma-action.org.uk/sites/default/files/media/documents/2022-01/REPRINT%20High-grade%20non-Hodgkin%20lymphoma%20NOV%2021%20DIGITAL.pdf}.
+\newblock 7th edition June 2020. ISBN 978-1-9160205-6-6.
 
 \bibitem{LOWGRADE}
 Lymphoma Action.
@@ -71,6 +74,8 @@ Michela Ansuinelli Università Sapienza Roma Robin Foà Professore Emerito di
 Ospedale di~Sassuolo Andrea Zanasi U.O. Medicina~Interna.
 \newblock {La gestione degli accessi vascolari: Prevenzione, riconoscimento e
   gestione delle complicanze precoci e tardive}.
+\newblock
+  \url{https://ospedalesassuolo.it/wp-content/uploads/2012/11/Prevenzione-riconoscimento-e-gestione-delle-complicanze-Zanasi.pdf}.
 
 \bibitem{PAIN}
 Abbas Balouchi, Abdolghani Abdollahimohammad, Salehoddin Bouya, and Esra
@@ -94,10 +99,16 @@ Jeannine Brant, Linda Eaton, and Margaret Irwin.
 \bibitem{COMUNICAZIONE}
 Dott.ssa~Monica Cardellicchio.
 \newblock {La comunicazione tra infermiere e paziente}.
+\newblock
+  \url{https://www.assocarenews.it/infermieri/la-comunicazione-tra-infermiere-e-paziente}.
+\newblock 7 Maggio 2022.
 
 \bibitem{NURSE24}
 Nurse24 Carla~Gatto.
 \newblock {L'occhio dell'Infermiere e la comunicazione con il paziente}.
+\newblock
+  \url{https://www.nurse24.it/infermiere/infermiere-comunicazione-paziente.html}.
+\newblock 13.01.22.
 
 \bibitem{Americanstatistic}
 American~Statistic Center.
@@ -120,16 +131,26 @@ Kathleen Cunningham, Heather DiFilippo, Kelli Henes, Leah Irwin, Ellen Napier,
 
 \bibitem{SCALEmucositi}
 M.~Trignani D.~Musio.
-\newblock {TOSSICITÀ NEI TRATTAMENTI TESTA-COLLO MUCOSITE ORALE}.
+\newblock {TOSSICITÀ NEI TRATTAMENTI DEL DISTRETTO TESTA-COLLO: MUCOSITE
+  ORALE}.
+\newblock
+  \url{https://www.congressiairo.it/2017/roma/09.30_Musio-Trignani.pdf}.
+\newblock 4 Dicembre 2017.
 
 \bibitem{effetticollaterali}
 Nurse24 Daniela~Berardinelli.
 \newblock {Chemioterapia ed effetti collaterali}.
+\newblock
+  \url{https://www.nurse24.it/infermiere/farmaci/chemioterapia-effetti-collaterali.html}.
+\newblock 13.12.18.
 
 \bibitem{img51}
 ISTITUTO ORTOPEDICO RIZZOLI SSD~Reparto di~CHEMIOTERAPIA DEI TUMORI
   DELL’APPARATO~LOCOMOTORE.
 \newblock {C.V.C. BROVIAC-HICKMAN}.
+\newblock
+  \url{https://www.associazionemariocampanacci.it/wp-content/uploads/2019/01/Opuscolo-BROVIAC-7-2018-1.pdf}.
+\newblock 13/07/2018.
 
 \bibitem{img4-6-7}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
@@ -141,6 +162,9 @@ Associazione~Italiana di~Oncologia Medica~(AIOM).
 \bibitem{AIOMTOSS}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {Linee guida GESTIONE DELLA TOSSICITÀ EMATOPOIETICA IN ONCOLOGIA}.
+\newblock
+  \url{https://snlg.iss.it/wp-content/uploads/2022/01/LG-458-AIOM_ToxEmatopoietica.pdf}.
+\newblock Edizione 2021.
 
 \bibitem{AIOM}
 Associazione~Italiana di~Oncologia Medica~(AIOM).
@@ -153,10 +177,17 @@ Associazione~Italiana di~Oncologia Medica~(AIOM).
 Associazione~Italiana di~Oncologia Medica~(AIOM).
 \newblock {Working Group Nursing Gestione infermieristica degli accessi
   vascolari centrali a medio e lungo termine nel paziente oncologico}.
+\newblock
+  \url{https://www.aiom.it/wp-content/uploads/2021/09/2021_Gestione_infermieristica_AV_WGNAIOM.pdf}.
+\newblock Giugno 2021.
 
 \bibitem{CRO}
-Centro di~Riferimento Oncologico~di Aviano~(CRO).
+Centro di~Riferimento Oncologico~di Aviano (CRO) IRCCS Istituto
+  Nazionale~Tumor.
 \newblock {Il PICC-PORT: Guida per il paziente}.
+\newblock
+  \url{https://www.cro.it/export/sites/cro/it/biblioteca/croinforma/pubblicazioni/PICC-PORTpazienti.pdf}.
+\newblock Anno 2021.
 
 \bibitem{DIETA}
 Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
@@ -164,6 +195,8 @@ Regione Siciliana AZIENDA~OSPEDALIERA di~rilievo nazionale e di alta
   Accreditata ISO 9001:2008 per la gestione della~terapia antitumorale).
 \newblock {La Dieta nel Paziente Ematologico ”Una guida per i malati e per i
   loro familiari”}.
+\newblock
+  \url{http://www.ao-garibaldi.ct.it/ematologia/per-i-medici/pdf/la-dieta-nel-paziente-ematologico.pdf}.
 
 \bibitem{ISS}
 Istituto~Superiore di~Sanità~(ISS).
@@ -175,6 +208,7 @@ Istituto~Superiore di~Sanità~(ISS).
 \bibitem{SCALEDOLORE}
 FONDAZIONE ISAL RICERCA~SUL DOLORE.
 \newblock {VALUTAZIONE DEL DOLORE}.
+\newblock \url{https://fondazioneisal.it/valutazione-del-dolore/}.
 
 \bibitem{article2}
 Channing Dudley, Brittney Baer, and Rhea Simons.
@@ -199,16 +233,25 @@ Rose Ellard, Michelle Kenyon, Daphna Hutt, Erik Aerts, Maaike Ruijter,
 Regione Emilia-Romagna. Servizio Sanitario~Regionale Emilia-Romagna.
 \newblock {Linee di indirizzo regionali sulla buona pratica di cura degli
   accessi vascolari}.
+\newblock
+  \url{https://bur.regione.emilia-romagna.it/bur/area-bollettini/bollettini-in-lavorazione/n-36-del-18-02-2021-parte-seconda.2021-02-17.5172676924/linee-di-indirizzo-tecnico-agli-enti-del-servizio-sanitario-regionale-in-materia-di-buona-pratica-degli-accessi-vascolari-provvedimenti-in-ordine-alla-propria-determinazione-n-7166-2020/allegato-det-linee-indirizzo-a.2021-02-17.1613558554}.
+\newblock 16/05/2018.
 
 \bibitem{EMODIAL}
 EMODIAL.
 \newblock {LA GESTIONE DELLE MARSI (Medical Adhesive Related Skin Injuries)}.
+\newblock
+  \url{https://www.emodial.it/wp-content/uploads/2020/01/07_dossier-marsi-IT.EN-20171124-AQ100-1.pdf}.
+\newblock 07/01/2020.
 
 \bibitem{FNOPIRIVISTA}
-Valentina Ferrari-Rivista L'infermiere Portale di Aggiornamento Professionale
-  N.4~2018 Fabio~Mozzarelli.
+Valentina Ferrari-Rivista L'infermiere Portale di Aggiornamento~Professionale
+  Fabio~Mozzarelli.
 \newblock {LE FLEBITI CORRELATE AI CVP: UTILIZZO DELLA VISUAL INFUSION
   PHLEBITIS SCORE PER UN’EFFICACE PREVENZIONE-FNOPI L'INFERMIERE}.
+\newblock
+  \url{https://www.infermiereonline.org/2018/10/12/le-flebiti-correlate-ai-cvp-utilizzo-della-visual-infusion-phlebitis-score-per-unefficace-prevenzione/}.
+\newblock Rivista n.4 2018.
 
 \bibitem{img35}
 Fondazione Italiana~Linfomi (FIL).
@@ -233,9 +276,26 @@ Paulette Gallant and Alyce Schultz.
 \newblock {\em Journal of infusion nursing : the official publication of the
   Infusion Nurses Society}, 29:338--45, 11 2006.
 
+\bibitem{GAVECELTPICCPORT}
+Dott. Domenico~MERLICCO GAVeCeLT Gli Accessi Venosi Centrali~a Lungo~Termine.
+\newblock {Il ruolo futuro dei Picc-Port in Oncologia}.
+\newblock
+  \url{https://gavecelt.it/nuovo/sites/default/files/uploads/Merlicco%20-%20PICC-port.pdf}.
+
+\bibitem{GAVECELTCVC}
+Mauro Pittiruti Università Cattolica~Roma GAVeCeLT Gli Accessi Venosi
+  Centrali~a Lungo~Termine.
+\newblock {Cateteri Midline vs. altri accessi venosi periferici nella terapia
+  endovenosa}.
+\newblock
+  \url{https://gavecelt.it/nuovo/sites/default/files/uploads/Gli-accessi-venosi-periferici-oggi.pdf}.
+
 \bibitem{mucositi}
 Nurse24 Giuseppe~Caldarelli.
 \newblock {Mucosite del cavo orale nelle neoplasie, come gestirla?}
+\newblock
+  \url{https://www.nurse24.it/studenti/mucosite-del-cavo-orale-nelle-neoplasie-come-gestirla.html}.
+\newblock 06.01.17.
 
 \bibitem{img43}
 Gerard Guiffant, Jean Durussel, Patrice Flaud, Jean Vigier, and Jacques Merckx.
@@ -267,6 +327,8 @@ National~Cancer Institute.
 \bibitem{img42}
 National~Cancer Institute.
 \newblock {Port-a-cath}.
+\newblock
+  \url{https://www.cancer.gov/publications/dictionaries/cancer-terms/def/port-a-cath}.
 
 \bibitem{NIH}
 National~Cancer Institute.
@@ -279,6 +341,9 @@ National~Cancer Institute.
 ISTITUTO SUPERIORE DI~SANITÀ (ISS).
 \newblock {Esposizione professionale a chemioterapici antiblastici: rischi per
   la riproduzione e strategie per la prevenzione}.
+\newblock
+  \url{https://www.ciip-consulta.it/images/Rischiochimico/Antiblastici%20esposizione_chemioterapici%20%20ISS.pdf}.
+\newblock 02/16 ISSN 1123-3117.
 
 \bibitem{LNHAIMAC}
 Associazione italiana malati di cancro parenti e~amici (AIMAC).
@@ -329,6 +394,9 @@ Leukemia and Lymphoma Society.
 \bibitem{LLSNUTRITION}
 Leukemia and Lymphoma Society.
 \newblock {Food and Nutrition Facts}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2021-05/FS24_Food%20%20Nutrition.pdf}.
+\newblock February 2017.
 
 \bibitem{LLSIMMUNO}
 Leukemia and Lymphoma Society.
@@ -347,6 +415,9 @@ Leukemia and Lymphoma Society.
 \bibitem{LLSLOWCELLS}
 Leukemia and Lymphoma Society.
 \newblock {SIDE-EFFECT MANAGEMENT: Managing Low Blood Cell Counts}.
+\newblock
+  \url{https://www.lls.org/sites/default/files/2022-07/FF10_SideEffects_BloodCells.pdf}.
+\newblock 05.30.2022.
 
 \bibitem{TRANS}
 Caixia Li, Ying Zhang, Changfeng Zhang, Jia Chen, Xiaoyan Lou, Xiaochen Chen,
@@ -356,11 +427,6 @@ Caixia Li, Ying Zhang, Changfeng Zhang, Jia Chen, Xiaoyan Lou, Xiaochen Chen,
 \newblock Comparation of cart19 and autologous stem-cell transplantation for
   refractory/relapsed non-hodgkin's lymphoma.
 \newblock {\em JCI insight}, 5, 07 2019.
-
-\bibitem{img47BIS}
-Vygon~Value Life.
-\newblock {Scrub the hub versus disinfecting port protectors; the benefits of
-  change}.
 
 \bibitem{MIPI}
 S.Y. LIM, Janet Horsman, and B.W. HANCOCK.
@@ -378,6 +444,9 @@ Shuangyou Liu, Biping Deng, Jing Pan, Zhichao Yin, Yuehui Lin, Zhuojun Ling,
 \bibitem{ISOLAMENTO}
 SISTEMA SOCIO SANITARIO~REGIONE LOMBARDIA.
 \newblock {Policy aziendale per l’isolamento del paziente in Ospedale }.
+\newblock
+  \url{https://www.anmdo.org/wp-content/uploads/2020/09/Procedura-isolamento-2016.pdf}.
+\newblock 08/11/16.
 
 \bibitem{tpnonfarmacologiche}
 Luís Lopes-Júnior, Gabriela Rosa, Raphael Pessanha, Sara Schuab, Karolini
@@ -385,6 +454,13 @@ Luís Lopes-Júnior, Gabriela Rosa, Raphael Pessanha, Sara Schuab, Karolini
 \newblock Efficacy of the complementary therapies in the management of cancer
   pain in palliative care: A systematic review.
 \newblock {\em Revista Latino-Americana de Enfermagem}, 28, 09 2020.
+
+\bibitem{img47BIS}
+H.P. Loveday, J.A. Wilson, R.J. Pratt, M.~Golsorkhi, A.~Tingle, A.~Bak,
+  J.~Browne, J.~Prieto, and M.~Wilcox.
+\newblock epic3: national evidence-based guidelines for preventing
+  healthcare-associated infections in nhs hospitals in england.
+\newblock {\em Journal of Hospital Infection}, 86:S1--S70, January 2014.
 
 \bibitem{GVHD}
 Paul Martin, J.~Rizzo, John Wingard, Karen Ballen, Peter Curtin, Corey Cutler,
@@ -428,18 +504,25 @@ Laurie Mcnichol, Carolyn Lund, Ted Rosen, and Mikel Gray.
 \bibitem{HAIRLOSS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Cooling Caps (Scalp Hypothermia) to Reduce Hair Loss}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8233.00.pdf}.
 
 \bibitem{HAIRLOSS2}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Coping With Hair Loss}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8894.00.pdf}.
+\newblock December 10, 2020.
 
 \bibitem{AMERICANFERTILITY}
 The American Cancer~Society medical and editorial~content team.
 \newblock {How Cancer And Cancer Treatment Can Affect Fertility}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/9255.00.pdf}.
+\newblock February 5, 2020.
 
 \bibitem{CHEMOAMERICAN}
 The American Cancer~Society medical and editorial~content team.
 \newblock {How Is Chemotherapy Used to Treat Cancer?}
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8417.00.pdf}.
+\newblock November 22, 2019.
 
 \bibitem{IMMUNOTP}
 The American Cancer~Society medical and editorial~content team.
@@ -450,10 +533,14 @@ The American Cancer~Society medical and editorial~content team.
 \bibitem{AMERICANPLATELET}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Low Platelet Count (Bleeding)}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/8900.00.pdf}.
+\newblock December 15, 2020.
 
 \bibitem{AMERICANLOWCELLS}
 The American Cancer~Society medical and editorial~content team.
 \newblock {Low Red Blood Cell Counts (Anemia)}.
+\newblock \url{https://www.cancer.org/content/dam/CRC/PDF/Public/7529.pdf}.
+\newblock February 1, 2020.
 
 \bibitem{AMERICANCS}
 The American Cancer~Society medical and editorial~content team.
@@ -508,6 +595,8 @@ MINISTERO DELLA SANITÀ DIPARTIMENTO DELLA PREVENZIONE COMMISSIONE~ONCOLOGICA
   NAZIONALE.
 \newblock {Linee guida per la sicurezza e la salute dei lavoratori esposti a
   chemioterapici antiblastici in ambiente sanitario}.
+\newblock \url{https://www.fnopi.it/wp-content/uploads/PROV050899.pdf}.
+\newblock 13 Gennaio 2006.
 
 \bibitem{BORTNURSES}
 Myeloma Special~Practice Network(M-SPN).
@@ -519,14 +608,22 @@ Myeloma Special~Practice Network(M-SPN).
 \bibitem{img40}
 Azienda Ospedaliera Ospedali Riuniti~Marche Nord.
 \newblock {Posizionamento Picc e Midline}.
+\newblock
+  \url{https://www.ospedalimarchenord.it/percorsi-di-cura/posizionamento-picc-e-midline/}.
+\newblock 27 Gennaio 2020.
 
 \bibitem{ALOPECIA}
 REDAZIONE NURSE24.
 \newblock {Alopecia in chemioterapia, la prevenzione è possibile}.
+\newblock
+  \url{https://www.nurse24.it/infermiere/testimonianze-infermieri/alopecia-in-chemioterapia-prevenzione-possibile.html}.
+\newblock 05.12.18.
 
 \bibitem{img44}
 LIFC Lazio~Comitato OFFICIUM.
 \newblock {Port-a-cath: Gestione domiciliare}.
+\newblock
+  \url{https://www.officiumroma.it/wp-content/uploads/2017/09/tre-ante-porth.pdf}.
 
 \bibitem{ISTGENT}
 Gentili Oncology.
@@ -538,6 +635,8 @@ Gentili Oncology.
 Oncology Nursing~Society (ONS).
 \newblock {Chimeric Antigen Receptor T-Cell Therapy: A Timeline of Events and
   Adverse Events}.
+\newblock
+  \url{https://www.ons.org/clinical-practice-resources/chimeric-antigen-receptor-t-cell-therapy-timeline-events-and-adverse}.
 
 \bibitem{MSD}
 Weill Cornell Medicine. MANUALE MSD-Versione per~professionisti Peter
@@ -570,16 +669,16 @@ William Rosa, Jesse Chittams, Barbara Riegel, Connie Ulrich, and Salimah
 \bibitem{img39}
 CURE SEARCH.
 \newblock {Lumbar Puncture (Spinal Tap)}.
+\newblock \url{https://curesearch.org/Lumbar-Puncture}.
 
 \bibitem{STRAVASOTOSCANA}
 AZIENDA USL TOSCANA CENTRO. DIPARTIMENTO~ONCOLOGICO SERVIZIO SANITARIO
   DELLA~TOSCANA.
 \newblock {Protocollo clinico assistenziale Prevenzione e trattamento dello
   stravaso da farmaci antiblastici}.
-
-\bibitem{img41}
-Blausen.com staff (2014).
-\newblock {"Medical gallery of Blausen Medical 2014"}.
+\newblock
+  \url{https://areariservata.uslcentro.toscana.it/index.php/documenti-usl-tc/area-sanitaria/dipartimento-oncologico/1347-pc-donc-01-prevenzione-e-trattamento-dello-stravaso-da-farmaci-antiblastici/file}.
+\newblock 26/07/2021.
 
 \bibitem{MACMILLAN}
 Macmillan~Cancer Support.
@@ -592,6 +691,9 @@ Macmillan~Cancer Support.
 REDAZIONE~NURSE TIMES.
 \newblock {Lo stravaso dei farmaci chemioterapici: istruzioni per il
   trattamento}.
+\newblock
+  \url{https://nursetimes.org/lo-stravaso-dei-farmaci-chemioterapici-istruzioni-trattamento/40722}.
+\newblock 31/10/2017.
 
 \bibitem{CHEMOUK}
 Cancer~Research UK.
@@ -610,6 +712,9 @@ Cancer~Research UK.
 \bibitem{UKFERTILITY}
 Cancer~Research UK.
 \newblock {Sex and fertility}.
+\newblock
+  \url{https://www.cancerresearchuk.org/about-cancer/non-hodgkin-lymphoma/living-with/sex-fertility}.
+\newblock 19 Jan 2021.
 
 \bibitem{reteveneta}
 Rete~Ematologica Veneta.
@@ -617,6 +722,14 @@ Rete~Ematologica Veneta.
   HODGKIN}.
 \newblock \url{https://rev.aopd.veneto.it/all/PDTA_Linfomi_Non_Hodgkin.pdf}.
 \newblock 24 Febbraio 2022.
+
+\bibitem{img41}
+{Wikipedia contributors}.
+\newblock Central venous catheter --- {Wikipedia}{,} the free encyclopedia.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Central_venous_catheter&oldid=1117272372},
+  2022.
+\newblock [Online; accessed 15-November-2022].
 
 \bibitem{BOOK2}
 Luciano Zocchi.

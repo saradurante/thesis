@@ -16,43 +16,43 @@ Database file #1: bibliography.bib
 Warning--empty journal in Iatrogeno
 You've used 107 entries,
             2118 wiz_defined-function locations,
-            1011 strings with 22280 characters,
-and the built_in function-call counts, 27611 in all, are:
-= -- 2439
-> -- 1534
+            1089 strings with 27368 characters,
+and the built_in function-call counts, 28710 in all, are:
+= -- 2662
+> -- 1575
 < -- 0
-+ -- 621
-- -- 512
-* -- 1420
-:= -- 4721
-add.period$ -- 304
++ -- 637
+- -- 528
+* -- 1469
+:= -- 4977
+add.period$ -- 379
 call.type$ -- 107
-change.case$ -- 577
+change.case$ -- 585
 chr.to.int$ -- 0
 cite$ -- 108
-duplicate$ -- 854
-empty$ -- 2377
-format.name$ -- 512
-if$ -- 5742
+duplicate$ -- 858
+empty$ -- 2380
+format.name$ -- 528
+if$ -- 5991
 int.to.chr$ -- 0
 int.to.str$ -- 107
-missing$ -- 26
-newline$ -- 521
+missing$ -- 27
+newline$ -- 596
 num.names$ -- 214
-pop$ -- 925
+pop$ -- 989
 preamble$ -- 1
-purify$ -- 470
+purify$ -- 478
 quote$ -- 0
-skip$ -- 863
+skip$ -- 681
 stack$ -- 0
-substring$ -- 801
+substring$ -- 823
 swap$ -- 109
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 428
 warning$ -- 1
-while$ -- 229
+while$ -- 231
 width$ -- 110
-write$ -- 978
+write$ -- 1131
 (There was 1 warning)
