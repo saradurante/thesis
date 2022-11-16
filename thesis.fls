@@ -418,12 +418,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertine
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 OUTPUT /Users/sara/Documents/Github/thesis/sections/abstract.aux
-INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
-INPUT /Users/sara/Documents/Github/thesis/sections/abstract.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /Users/sara/Documents/Github/thesis/thesis.toc
@@ -449,10 +443,14 @@ INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.tex
 INPUT /Users/sara/Documents/Github/thesis/sections/chap_1.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /Users/sara/Documents/Github/thesis/img/ANATOMY2.jpeg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
