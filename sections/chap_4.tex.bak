@@ -147,7 +147,7 @@ comunicativa, aumento del disagio del paziente, che va incontro a depressione, a
 L’infermiere esamina eventuali lesioni aperte, informa il paziente sulla necessità di riferire 
 sintomi quali dolore, bruciore o diminuzione della tolleranza verso cibi caldi o freddi; evitare colluttori, 
 usare spazzolini con setole morbide e dentifrici non abrasivi, rimuovere le 
-protesi e limitare il loro uso al solo momento del pasto; ridurre l'assunzione di cibi molto caldi, 
+protesi e limitare il loro uso al solo momento del pasto; riddurre l'assunzione di cibi molto caldi, 
 piccanti e speziati\cite{mucositi}.\\ 
 Vi sono, ad oggi, diverse scale di valutazione della mucosite (Figura \ref{fig:FIGURE_4.2}); i punteggi possono 
 andare da 0 a 4 o da 0 a 5, ma non vi sono differenze circa la superiorità di una scala piuttosto che un’altra\cite{SCALEmucositi}.
@@ -167,20 +167,20 @@ andare da 0 a 4 o da 0 a 5, ma non vi sono differenze circa la superiorità di u
 Gli effetti collaterali della chemioterapia coinvolgono anche il sistema ematopoietico.\\
 Per quanto riguarda i leucociti, si avrà una leucopenia, cioè una diminuzione del numero di globuli bianchi 
 circolanti, inferiori a 4000 cell/mm3 (valori di riferimento sono tra 4000-10000 cell/mm3).\\ 
-Tra i leucociti, la diminuzione del numero dei neutrofili (valori di riferimento sono tra 2000-8000 mcl) 
-prende il nome di neutropenia, che può essere lieve (1000-1500 mcl), moderata (500-1000 mcl) o severa (<500 mcl)\cite{AIOMTOSS}.\\ 
+Tra i leucociti, la diminuzione del numero dei neutrofili (valori di riferimento sono tra 2000-8000 mcL) 
+prende il nome di neutropenia, che può essere lieve (1000-1500 mcL), moderata (500-1000 mcL) o severa (<500 mcL)\cite{AIOMTOSS}.\\ 
 La neutropenia espone il paziente a rischio infettivo, è una complicanza che insorge intorno al 7°-10° giorno di 
 trattamento; se intervengono infezioni gravi si somministra terapia antibiotica, antimicotica e si valuta per i 
 fattori di crescita\cite{AIOMTOSS}. In Italia, il fattore di crescita mieloide disponibile per l’uso clinico 
 è il G-CSF (granulocyte colony stimulating factor), di cui esistono quattro formulazioni: 
 Filgrastim, Lenograstim, Pegfilgrastim, Lipegfilgrastim\cite{AIOMTOSS}.\\
-La neutropenia febbrile (con TC>38°C e neutrofili<500 mcl) è associata ad un rischio diretto di mortalità del 9,5\%.\\ 
+La neutropenia febbrile (con TC>38°C e neutrofili<500 mcL) è associata ad un rischio diretto di mortalità del 9,5\%.\\ 
 L’infermiere deve attuare interventi che vadano a ridurre i rischi infettivi e le complicanze correlate alla 
 neutropenia: deve adottare le corrette precauzioni per la prevenzione delle infezioni correlate all’assistenza (ICA), 
 gestire correttamente gli accessi venosi, centrali e periferici ed eventuali drenaggi, monitorare la temperatura 
 corporea, la comparsa di mucosite del cavo orale, rilevare precocemente segni e sintomi di sepsi, informare il 
 paziente e i familiari riguardo le complicanze infettive e far osservare le norme comportamentali e di igiene delle mani. 
-Se i neutrofili sono <1000 mcl, il paziente viene posto in isolamento protettivo: si deve prestare attenzione 
+Se i neutrofili sono <1000 mcL, il paziente viene posto in isolamento protettivo: si deve prestare attenzione 
 ad una corretta igiene delle mani, usare i guanti monouso secondo indicazione, la mascherina e il camice monouso\cite{ISOLAMENTO}.\\
 
 L’anemia è la riduzione del numero di globuli rossi, che provoca una diminuzione della concentrazione di emoglobina; 
@@ -316,7 +316,7 @@ l'exit-site del catetere e verificare il corretto funzionamento dello stesso\cit
 L'accesso venoso centrale o catetere venoso centrale (CVC) è così definito quando la punta 
 del catetere arriva in vena cava superiore, in atrio destro o in vena cava inferiore (Figura \ref{fig:FIGURE_4.4}). 
 Dispositivi per l'accesso centrale sono PICC 
-(peripherally inserted central catheter)(Figura \ref{fig:FIGURE_4.3}), CICC (central inserted central catheter), 
+(peripherally inserted central catheter), CICC (central inserted central catheter), 
 FICC (femorally inserted central catheter) e per finire, 
 dispositivi totalmente impiantabili come Port-a-cath o Port (Figura \ref{fig:FIGURE_4.4B}) e PICC-Port\cite{GAVECELTracc2021}.\\
 I farmaci somministrati per via centrale possono essere vescicanti o irritanti (pH>9 o pH<5), le soluzioni possono essere 
@@ -363,7 +363,7 @@ Nella scelta del presidio bisogna considerare la sicurezza del paziente, l'effic
 costi-efficacia, riduzione dei tempi di cura, migliore compliance del paziente. Inoltre, bisogna valutare una serie 
 di fattori correlati al paziente: età, tipo di  neoplasia, performance status, comorbilità, presenza 
 di eventuali allergie\cite{AIOMCVC}.\\
-Bisogna sempre, per quanto possibile, cercare di agire secondo le preferenze del paziente, 
+Bisogna sempre, per quanto possibile, cercare di agire soddisfando le preferenze del paziente, 
 ed accertarsi sulla presenza o assenza di un caregiver. Per quanto riguarda i fattori correlati al patrimonio 
 venoso periferico, bisogna effettuare una valutazione dello stesso, analizzando le vene di entrambi gli arti superiori,
 documentando le caratteristiche della vena per ogni arto (calibro, se è palpabile, turgida e con decorso lineare) ed eventuali 
@@ -396,7 +396,7 @@ setto del Port non venga danneggiato, consentendo fino a 2000-3000 accessi\cite{
     \includegraphics[width=0.4\columnwidth]{img/port2.jpeg}
     \vspace{-3mm}
     \end{center}
-    \caption{Come impugnare l’ago di Huber e mantenere ben saldo il Port durante la puntura.
+    \caption{Come impugnare l’ago di huber e mantenere ben saldo il Port durante la puntura.
     \cite{img44}}
     \label{fig:FIGURE_4.7}
 \end{figure}
@@ -457,8 +457,8 @@ e potrebbero risultare compressivi\cite{AIOMCVC}.\\
 Al termine dell’infusione della terapia, bisogna effettuare il lavaggio (flush) e la chiusura (lock) del PICC.
 Il lavaggio viene effettuato utilizzando una siringa preriempita di tipo luer-lock con soluzione fisiologica, 
 iniettata con tecnica pulsata e chiudendo il sistema con una pressione positiva\cite{AIOMCVC}.\\ La chiusura del PICC si esegue 
-normalmente con 10 ml di soluzione fisiologica; nel caso in cui si utilizzi una soluzione eparinata, la 
-concentrazione di eparina deve essere di 10 UI/ml, ma non vi sono sufficienti evidenze che raccomandano l’uso 
+normalmente con 10 mL di soluzione fisiologica; nel caso in cui si utilizzi una soluzione eparinata, la 
+concentrazione di eparina deve essere di 10 UI/mL, ma non vi sono sufficienti evidenze che raccomandano l’uso 
 dell’una o dell’altra soluzione. 
 Il lock, deve essere effettuato con un volume di soluzione pari al volume interno del sistema, più il 20\%.\\
 Le terminazioni del catetere devono essere protette mediante needle-free connectors con attacco luer-lock a pressione 
@@ -470,7 +470,7 @@ utilizzabili sono alcol isopropilico al 70\%, iodopovidone o clorexidina al 2\% 
 La disinfezione passiva, prevede l’utilizzo di dispositivi chiamati port protectors, 
 i quali sono cappucci contenenti una spugna imbevuta di alcol isopropilico al 70\%. 
 Questi dispositivi hanno mostrato una riduzione del rischio di 
-infezione intraluminale\cite{img47BIS}. Bisogna comunque fare sempre riferimento alle indicazioni del produttore per quanto 
+infezione intraluminale. Bisogna comunque fare sempre riferimento alle indicazioni del produttore per quanto 
 riguarda i tempi di disinfezione e di garanzia della protezione\cite{AIOMCVC}.
 
 \begin{figure}[H]
@@ -508,7 +508,7 @@ Per la scelta del device più adatto, bisogna valutare sia il diametro del bracc
     \fbox{\includegraphics[width=0.3\columnwidth]{img/picc-port.jpg}}
     \vspace{-3mm}
     \end{center}
-    \caption{Differenza tra la posizione del port toracico e il picc-port.
+    \caption{Differenza tra la posizione del port toracico e il picc-port
     \cite{MERLICCO}}
     \label{fig:FIGURE_4.8}
 \end{figure}
@@ -518,7 +518,7 @@ Per la scelta del device più adatto, bisogna valutare sia il diametro del bracc
     \fbox{\includegraphics[width=0.3\columnwidth]{img/portconfronto.jpeg}}
     \vspace{-3mm}
     \end{center}
-    \caption{Confronto tra micro-port, mini-sitimplant e port standard.
+    \caption{Confronto tra micro-port, mini-sitimplant e port standard
     \cite{GAVECELTPICCPORT}}
     \label{fig:FIGURE_4.14}
 \end{figure}
@@ -535,14 +535,14 @@ caso si parla di CR-BSI (Catheter-related bloodstream infection)\cite{GAVECELTra
 che determinano una CR-BSI sono gli exit-site e i punti di accesso alla linea infusionale. 
 Bisogna sospettare la presenza di un’infezione in caso di sintomi quali: febbre, dolore, edema, eritema localizzato, 
 presenza di secrezioni nel punto di inserzione del catetere, tumefazione, necrosi della cute sul punto di inserzione\cite{AIOMCVC}.\\
-Per rendere univoca la valutazione, si utilizza la scala di riferimento VES, Visual Exit-site Score:
+Per rendere univoca la valutazione, si utilizza la scala di riferimento VES, visual exit-site score:
 
 \begin{figure}[H]
     \begin{center}
     \includegraphics[width=0.8\columnwidth]{img/VES.png}
     \vspace{-3mm}
     \end{center}
-    \caption{Scala di valutazione VES (Visual Exit-site Score).
+    \caption{Scala di valutazione VES (visual exit-site score).
     \cite{img51}}
 
 \end{figure}
@@ -713,7 +713,7 @@ follicoliti (Figura \ref{fig:FIGURE_4.22})\cite{EMODIAL}.
 
 \begin{figure}[H]
     \begin{center}
-    \includegraphics[width=0.9\columnwidth]{img/Types-of-adhesive-related-skin-injury.jpg}
+    \includegraphics[width=0.8\columnwidth]{img/Types-of-adhesive-related-skin-injury.jpg}
     \vspace{-3mm}
     \end{center}
     \caption{Tipi di MARSI

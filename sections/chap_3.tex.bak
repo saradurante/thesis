@@ -108,8 +108,8 @@ Esempi di tali anticorpi sono: rituximab (Rituxan), obinutuzumab (Gazyva), ofatu
 Essi fanno parte degli anticorpi monoclonali definiti “naked” in quanto non sono legati ad altri farmaci o a 
 molecole radioattive, ma funzionano da soli\cite{LLSIMMUNO}.\\
 Altri anticorpi hanno come target la proteina CD30, presente sulla superficie dei linfociti B e T; 
-ad esempio Brentuximab vedotin (Adcetris), fa parte della classe degli anticorpi monoclonali coniugati, 
-così definiti perché sono legati ad un farmaco chemioterapico (come Brentuximab vedotin) o ad una molecola radioattiva. 
+ad esempio brentuximab vedotin (Adcetris), fa parte della classe degli anticorpi monoclonali coniugati, 
+così definiti perché sono legati ad un farmaco chemioterapico (come brentuximab vedotin) o ad una molecola radioattiva. 
 Di questa classe inoltre fa parte il farmaco Yttrium-90-ibritumomab tiuxetan (Zevalin), un esempio di 
 radioimmunoterapia dove l’anticorpo monoclonale è coniugato ad un isotopo radioattivo, 
 ed esplica la sua funzione direttamente sulle cellule tumorali; esso ha però come target 
@@ -131,7 +131,7 @@ Gli anticorpi monoclonali inoltre possono causare una riattivazione del virus de
 il trattamento, vengono eseguiti esami ematici specifici, 
 per verificare l’eventuale presenza di tale virus; anche diversi mesi dopo la fine della terapia
 si è esposti al rischio di sviluppare infezioni. 
-L’utilizzo di Brentuximab vedotin può provocare neuropatia, alterazioni  dell’emocromo, infezioni, tosse, febbre, 
+L’utilizzo di brentuximab vedotin può provocare neuropatia, alterazioni  dell’emocromo, infezioni, tosse, febbre, 
 nausea, vomito, diarrea, fatigue\cite{IMMUNOTP}.\\
 
 Tra le \emph{target therapies}, Bortezomib (Velcade), viene impiegato per il LNH a basso grado di malignità, 
@@ -148,7 +148,8 @@ La via sottocutanea risulta più vantaggiosa, in quanto il tessuto adiposo ha un
 alla via orale, è prolungato nel tempo rispetto alla via intramuscolare e 
 risulta una buona alternativa alla via endovenosa in caso di pazienti con scarso patrimonio venoso\cite{BORTEZOMIB}.\\
 Bisogna tuttavia avere degli accorgimenti per quanto riguarda la tecnica di somministrazione, per ridurre al minimo 
-le reazioni locali correlate alla somministrazione sottocutanea di chemioterapici, come mostrato nelle immagini sottostanti.
+le reazioni locali correlate alla somministrazione sottocutanea di chemioterapici, 
+come illustrato nelle immagini che seguono.
 
 \begin{figure}[H]
     \begin{center}
@@ -168,7 +169,7 @@ le reazioni locali correlate alla somministrazione sottocutanea di chemioterapic
     
         \end{subfigure}
     \end{center} 
-    \caption{Reazioni atipiche al bortezomib dopo somministrazione per via sottocutanea.\cite{BORTEZOMIB}}
+    \caption{Reazioni atipiche al bortezomib dopo somministrazione per via sottocutanea\cite{BORTEZOMIB}.}
     
 \end{figure}
 
@@ -194,7 +195,7 @@ un’altra per la successiva somministrazione\cite{BORTNURSES}.
 
 La tecnica di iniezione prevede di sollevare la plica cutanea prestando attenzione a sollevare il tessuto 
 sottocutaneo, ma non quello muscolare (Figura \ref{fig:FIGURE_3.6}). 
-Il volume massimo iniettabile mediante questa via è comunque di 2 ml.
+Il volume massimo iniettabile mediante questa via è comunque di 2 mL.
 
 \begin{figure}[H]
     \begin{center}
@@ -211,7 +212,7 @@ La scelta dell’ago appropriato è inoltre importante. Un ago da 26G è indicat
 penetrare nel tessuto muscolare\cite{BORTNURSES}.\\
 Per la somministrazione di Bortezomib per via sottocutanea, risulta appropriata la tecnica "air sandwich" 
 (Figura \ref{fig:FIGURE_3.7}),
-da non usare invece per la via di somministrazione endovenosa. La tecnica prevede di aspirare 0.5-1 ml 
+da non usare invece per la via di somministrazione endovenosa. La tecnica prevede di aspirare 0.5-1 mL 
 di aria nella siringa, che non deve essere rimossa, ma viene utilizzata per ridurre l'irritazione da parte del farmaco e 
 per garantire la somministrazione dell'intera dose. L'iniezione deve essere lenta, con pause di circa 10 secondi. 
 Al termine rimuovere l'ago e applicare una leggera pressione senza strofinare\cite{BORTNURSES}.

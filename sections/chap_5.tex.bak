@@ -79,7 +79,7 @@ encefalopatia, insufficienza renale, fino ad arrivare ad una insufficienza multi
 La CRS può insorgere a partire da alcune ore, fino anche ad una settimana dalla somministrazione di CAR-T\cite{EMATOCART}.\\
 Diversi sono i fattori di rischio che comportano il manifestarsi di tale sintomatologia (Figura \ref{fig:FIGURE_3.11}) 
 e che influiscono anche sul suo grado di severità: l'infusione di una dose elevata di CAR-T, le caratteristiche 
-del paziente, il tipo di terapia di linfodeplezione, lo stato della malattia e il burden di malattia 
+del paziente, il tipo di terapia di linfodeplezione, lo stato della malattia e il \emph{burden} di malattia 
 (burden of disease)\cite{EMATOCART}.
 La CRS può inoltre evolvere in una sindrome da attivazione macrofagica (MAS).
 
@@ -127,7 +127,7 @@ può insorgere anche in seguito alla CRS con maggiore durata e severità. La dur
 Il trattamento terapeutico con tocilizumab è efficace in caso di ICANS associata a CRS, altrimenti la terapia di 
 elezione è con corticosteroidi\cite{EMATOCART}.\\
 L’ASTCT (American Society for Transplantation and Cellular Therapy) 
-ha prodotto anche per ICANS delle linee guida per valutare il grado di severità (Figura \ref{fig:FIGURE_5.5})\cite{LEE2019625}.
+ha prodotto anche per ICANS delle linee guida per valutare il grado di severità\cite{LEE2019625}.
 
 \begin{figure}[H]
     \begin{center}
@@ -136,7 +136,7 @@ ha prodotto anche per ICANS delle linee guida per valutare il grado di severità
     \end{center}
     \caption{Parametri per la valutazione del grado di severità di ICANS.
     \cite{ICANS}}
-    \label{fig:FIGURE_5.5}
+
 \end{figure}
 
 \subsection{Sindrome da Attivazione Macrofagica (MAS)}
@@ -228,7 +228,7 @@ ed anche nel follow-up\cite{NURSINGCART}.\\
 
 Quando il paziente è candidato a ricevere la terapia CAR-T, l’infermiere, per garantire sicurezza al trattamento, 
 deve accertarsi che abbia eseguito tutti i test necessari, per quanto riguarda la valutazione della funzionalità epatica, 
-renale, cardiaca e polmonare\cite{article2}. Prima dell’infusione, effettuare i controlli necessari, per ridurre il 
+renale, cardiaca e polmonare\cite{article2}. Prima dell’infusione, effettuare i controlli neseccari, per ridurre il 
 rischio di complicanze che potrebbero derivare da infezioni batteriche, virali e fungine\cite{NURSINGCART}.\\
 Potrebbe rendersi necessaria una "bridging chemotherapy", ovvero dei cicli di chemioterapia nel caso in cui 
 la malattia sia particolarmente aggressiva da potersi espandere, se non trattata nel periodo di tempo di attesa della 
@@ -276,8 +276,7 @@ alla terapia delle CAR-T\cite{article2}.\\
 
 Vista la crescita nell’uso delle CAR-T, la ONS (Oncology Nursing Society), ha sviluppato una risorsa, 
 proprio con lo scopo di migliorare l’apprendimento dei meccanismi correlati ai vari processi che costituiscono 
-le CAR-T (Figura \ref{fig:FIGURE_5.6}), gli effetti avversi potenzialmente più comuni e le considerazioni infermieristiche 
-su come trattarli (Figura \ref{fig:FIGURE_5.7})\cite{ONSCART}.
+le CAR-T, gli effetti avversi potenzialmente più comuni e le considerazioni infermieristiche su come trattarli\cite{ONSCART}.
 
 \begin{figure}[H]
     \begin{center}
@@ -286,7 +285,7 @@ su come trattarli (Figura \ref{fig:FIGURE_5.7})\cite{ONSCART}.
     \end{center}
     \caption{Risorsa ONS (Oncology Nursing Society) fasi del processo CAR-T.
     \cite{ONSCART}}
-    \label{fig:FIGURE_5.6}
+
 \end{figure}
 
 \begin{figure}[H]
@@ -296,7 +295,7 @@ su come trattarli (Figura \ref{fig:FIGURE_5.7})\cite{ONSCART}.
     \end{center}
     \caption{Risorsa ONS (Oncology Nursing Society) complicanze della terapia CAR-T e loro gestione.
     \cite{ONSCART}}
-    \label{fig:FIGURE_5.7}
+
 \end{figure}
 
 \section{Regime dietetico del paziente oncologico}
@@ -353,7 +352,7 @@ Nell'attività quotidiana, l'infermiere dedica buona parte dell'assistenza alla 
 un rapporto empatico; questo elemento è imprescindibile per capire nel miglior modo possibile, l'entità del
 dolore del paziente. Sebbe­ne per la misurazione vengano utilizzati metodi validati, senza la collabo­razione del 
 paziente non è possibile stabilire la giusta sede, il tipo di dolo­re e il livello di intensità, 
-poiché il dolore resta un sintomo soggettivo\cite{BOOK3}.\\
+poichè il dolore resta un sintomo soggettivo\cite{BOOK3}.\\
 Un aspetto fondamentale è la valutazione iniziale, ma è altret­tanto indispensabile la rivalutazione frequente del paziente, 
 in quanto permette di determinare se gli interventi adottati sono stati effi­caci nel ridurre la 
 sintomatologia\cite{BOOK3}.\\
@@ -402,7 +401,7 @@ complessità, non sono facilmente applicabili nella pratica clinica\cite{BOOK3}.
     
     
 \end{subfigure}
-    \caption{Scale unidimensionali di valutazione del dolore. \cite{SCALEDOLORE}}
+    \caption{Scale unidimensionali di valutazione del dolore\cite{SCALEDOLORE}}
     \label{fig:FIGURE_5.8}
     
 \end{figure}

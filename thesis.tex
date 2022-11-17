@@ -1,5 +1,5 @@
 % !TEX encoding = UTF-8 Unicode
-\documentclass[11pt]{report}
+\documentclass[11pt,bibliography=totoc]{report}
 
 \usepackage[italian]{babel}
 %Margini e interlinea
@@ -19,7 +19,8 @@
 \usepackage{blindtext}
 \usepackage{enumitem}
 \usepackage{amsthm}
-\usepackage{subfig}
+\usepackage{caption}
+\usepackage{subcaption}
 \usepackage{listings}
 \usepackage{listingsutf8}
 \usepackage{amsmath}
@@ -44,6 +45,7 @@
 \usepackage{tabularx}
 \usepackage{ltablex}
 \usepackage[font=small,skip=0pt]{caption}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
 \usepackage[
     left = \flqq{},% 
     right = \frqq{},% 
@@ -85,13 +87,15 @@
 \include{sections/chap_4}
 \include{sections/chap_5}
 \include{sections/Conclusioni}
-\include{sections/Ringraziamenti}
+
 % Rimuovere se non si vuole la tabella delle figure
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures
 
 \appendix
 
-\bibliographystyle{plain}
+\bibliographystyle{unsrt}
 \bibliography{bibliography.bib}
-
+\include{sections/Ringraziamenti}
 \end{document}
