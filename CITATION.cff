@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this thesis in any way you want, please cite it as below."
+authors:
+  - family-names: Durante
+    given-names: Sara 
+    orcid: https://orcid.org/0000-0002-7757-1798
+title: "L'infermiere e il linfoma non-Hodgkin: dalle terapie tradizionali alle CAR-T"
+version: 0.1.0
+date-released: 2022-12-5
+url: "https://github.com/saradurante/thesis"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Durante
+      given-names: Sara
+      orcid: https://orcid.org/0000-0002-7757-1798
+  doi: ""
+  journal: "University of Siena thesis"
+  month: 12
+  start: 1 # First page number
+  end: 104 # Last page number
+  title: "L'infermiere e il linfoma non-Hodgkin: dalle terapie tradizionali alle CAR-T"
+  issue: 1
+  volume: 1
+  year: 2022
